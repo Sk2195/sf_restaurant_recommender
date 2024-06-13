@@ -139,7 +139,7 @@ if page == "Home":
         </div>
     </div>
     """, unsafe_allow_html=True)
-    image_url = 'C:/users/chimi/Desktop/Python Data Science Projects/sf_restaurant_recommender/dataset/A_warm_and_inviting_background_image_suitable_for_.jpg'  
+    image_url = 'image/A_warm_and_inviting_background_image_suitable_for_.jpg'  
     st.image(image_url, use_column_width=True)
 
 elif page == "Collaborative Filtering Recommendation":
