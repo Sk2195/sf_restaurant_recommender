@@ -10,7 +10,7 @@ st.set_page_config(page_title='SF Restaurant Recommender', layout='wide')
 
 # Function to load and clean the dataset
 def load_data():
-    data = pd.read_csv('C:/users/chimi/Desktop/Python Data Science Projects/sf_restaurant_recommender/dataset/sfres_cleaned.csv')
+    data = pd.read_csv('dataset/sfres_cleaned.csv')
     return data
 
 # Load the dataset
