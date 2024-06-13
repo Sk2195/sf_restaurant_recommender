@@ -1,0 +1,884 @@
+name,rating,review_count,categories,price_type,address,phone
+Bottega,4.3,1106,"['Italian', 'Pasta Shops', 'Pizza']",2.0,"1132 Valencia St, San Francisco, CA 94158",(415) 655-9048
+Sokcho,5.0,1,"['Korean', 'Asian Fusion']",2.0,"336 Clement St, San Francisco, CA 94118",(415) 387-8370
+Horsefeather,4.0,596,"['Cocktail Bars', 'New American']",2.0,"528 Divisidero St, San Francisco, CA 94117",(415) 817-1939
+Fog Harbor Fish House,4.3,10433,"['Seafood', 'Wine Bars', 'Cocktail Bars']",2.0,"39 Pier, Ste 202A, San Francisco, CA 94133",(415) 969-2010
+Nopa,4.2,5512,"['New American', 'Desserts', 'Cocktail Bars']",3.0,"560 Divisadero St, San Francisco, CA 94117",(415) 864-8643
+Pearl,4.4,501,"['Italian', 'Seafood', 'Mediterranean']",3.0,"6101 California St, San Francisco, CA 94121",(415) 592-9777
+Blind Butcher,4.1,374,"['New American', 'Wine Bars']",2.0,"4058 18th St, San Francisco, CA 94114",(415) 529-2478
+Memento SF,4.7,54,"['New American', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"1305 Castro St, San Francisco, CA 94114",(415) 829-3099
+Kothai Republic,4.6,294,"['Korean', 'Thai', 'Breakfast & Brunch']",2.0,"1398 9th Ave, San Francisco, CA 94122",(415) 742-4058
+Dalida,4.5,263,"['Mediterranean', 'Turkish', 'Bars']",3.0,"101 Montgomery St, Ste 100, San Francisco, CA 94129",(415) 237-1999
+Nepa  Indian Cuisine,4.9,95,"['Himalayan/Nepalese', 'Indian']",2.0,"507 Divisadero St, San Francisco, CA 94117",(415) 829-3180
+Marufuku Ramen,4.5,5126,['Ramen'],2.0,"1581 Webster St, Ste 235, San Francisco, CA 94115",(415) 872-9786
+Fermentation Lab,4.6,88,"['Cocktail Bars', 'Seafood', 'New American']",2.0,"1700A Post St, San Francisco, CA 94115",(415) 757-0667
+Santeria,4.4,328,"['Mexican', 'Cocktail Bars']",2.0,"2251 Market St, San Francisco, CA 94114",(415) 896-4496
+The Laundromat,4.6,316,"['Pizza', 'Bagels', 'Beer Bar']",2.0,"3725 Balboa St, San Francisco, CA 94121",(415) 379-4340
+Zentarou Sushi and Sake Bar,4.6,10,"['Japanese', 'Sushi Bars']",2.0,"1380 9th Ave, San Francisco, CA 94122",(659) 246-9635
+Mashita Galbi Jjim,4.8,18,['Asian Fusion'],2.0,"2123 Polk St, San Francisco, CA 94109",(415) 400-4084
+Bansang,4.2,440,"['Korean', 'Tapas/Small Plates', 'Asian Fusion']",2.0,"1560 Fillmore St, San Francisco, CA 94115",(415) 441-9294
+Taniku Izakaya,4.8,156,"['Izakaya', 'Ramen', 'Noodles']",2.0,"1035 Geary St, San Francisco, CA 94109",(415) 658-7555
+Savor,4.7,222,"['Mediterranean', 'Vegetarian', 'Tapas/Small Plates']",2.0,"401 Irving St, San Francisco, CA 94122",(415) 702-6048
+Beretta Divisadero,4.2,511,"['Italian', 'Pizza', 'Breakfast & Brunch']",2.0,"661 Divisadero St, San Francisco, CA 94117",(415) 654-5211
+Fable,4.1,874,"['New American', 'Wine Bars', 'Breakfast & Brunch']",2.0,"558 Castro St, San Francisco, CA 94114",(415) 590-2404
+Elena's Mexican Restaurant,3.9,232,"['American', 'Mexican']",2.0,"255 W Portal Ave, San Francisco, CA 94127",(415) 622-4440
+MuuKaTa6395 Thai Charcoal BBQ,4.6,382,['Thai'],2.0,"4217 Geary Blvd, San Francisco, CA 94118",(415) 429-4956
+Otra,4.4,178,"['Mexican', 'Cocktail Bars']",2.0,"682 Haight St, San Francisco, CA 94117",(415) 500-2774
+NONO,4.3,137,"['Izakaya', 'Sushi Bars']",2.0,"1730 Fillmore St, San Francisco, CA 94115",(415) 829-3411
+Nara Restaurant & Sake Bar,4.6,2060,"['Japanese', 'Sushi Bars']",2.0,"518 Haight St, San Francisco, CA 94117",(415) 417-0518
+ILCHA,4.4,307,"['Korean', 'Bars']",3.0,"2151 Lombard St, San Francisco, CA 94123",(415) 613-9288
+The Public Izakaya,4.4,440,"['Izakaya', 'Sushi Bars', 'Ramen']",2.0,"700 Post St, San Francisco, CA 94109",(415) 658-7588
+The Tailor's Son,4.2,536,"['Italian', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"2049 Fillmore St, San Francisco, CA 94115",(415) 673-7200
+Pinsa Rossa,4.6,116,"['Italian', 'Pizza', 'Beer Bar']",2.0,"2101 Fillmore St, San Francisco, CA 94115",(415) 922-4700
+SHOWA Le Gourmet Tonkatsu,5.0,14,['Japanese'],2.0,"1550 Howard St, San Francisco, CA 94103",(415) 470-1107
+La Sarrasine,4.7,93,"['Creperies', 'French', 'Mediterranean']",2.0,"607 Divisadero St, San Francisco, CA 94117",(415) 417-4915
+Toast N Egg,4.1,86,"['Korean', 'Breakfast & Brunch']",2.0,"1838 Irving St, San Francisco, CA 94122",(415) 900-1210
+Frances,4.3,1573,"['New American', 'Wine Bars']",3.0,"3870 17th St, San Francisco, CA 94114",(415) 621-3870
+Bistro Ember,4.7,90,['Mediterranean'],2.0,"1298 Church St, San Francisco, CA 94114",(415) 936-6096
+JIJIME,4.3,620,"['Korean', 'Asian Fusion', 'Ramen']",2.0,"5524 Geary Blvd, San Francisco, CA 94121",(415) 221-5353
+Lark,4.1,349,"['Mediterranean', 'Greek', 'Cocktail Bars']",2.0,"4068 18th St, San Francisco, CA 94114",(415) 400-4623
+Starbelly,3.8,2344,"['New American', 'Breakfast & Brunch', 'Cocktail Bars']",2.0,"3583 16th St, San Francisco, CA 94114",(415) 252-7500
+The Port of Peri Peri,4.7,11,"['Chicken Shop', 'Halal', 'Portuguese']",2.0,"737 3rd St, San Francisco, CA 94107",(415) 340-7373
+Khao Tiew,4.7,73,['Thai'],2.0,"272 Claremont Blvd, San Francisco, CA 94127",(415) 996-1919
+Little Aloha,4.4,32,"['Hawaiian', 'Shaved Ice']",2.0,"1115 Taraval St, San Francisco, CA 94116",(415) 592-3888
+Birdsong,4.4,430,['New American'],4.0,"1085 Mission St, San Francisco, CA 94103",(415) 369-9161
+Cote Ouest Bistro,4.7,221,['French'],2.0,"2953 Baker St, San Francisco, CA 94123",(415) 896-4709
+Lokma,4.6,820,"['Mediterranean', 'Breakfast & Brunch', 'Vegetarian']",2.0,"1801 Clement St, San Francisco, CA 94121",(415) 702-6263
+Lily,4.3,479,['Vietnamese'],2.0,"225 Clement St, San Francisco, CA 94118",(415) 742-5285
+Anomaly SF,4.7,179,['New American'],4.0,"2600 Sutter St, San Francisco, CA 94115",(415) 510-9468
+Mr. Digby’s,4.2,167,"['Cocktail Bars', 'Comfort Food', 'Breakfast & Brunch']",2.0,"1199 Church St, San Francisco, CA 94114",(415) 896-4973
+Bettola,5.0,1,['Italian'],2.0,"343 Clement St, San Francisco, CA 94118",(415) 571-8542
+Sotto Mare,4.3,5346,"['Seafood', 'Italian', 'Bars']",2.0,"552 Green St, San Francisco, CA 94133",(415) 398-3181
+Ben Thai Cafe,4.4,1058,"['Thai', 'Noodles']",2.0,"1331 Polk St, San Francisco, CA 94109",(415) 771-2562
+Ollei,4.6,184,"['Korean', 'Comfort Food', 'Asian Fusion']",2.0,"2127 Polk St, San Francisco, CA 94109",(415) 757-0721
+Nopalito,3.8,2049,['Mexican'],2.0,"306 Broderick St, San Francisco, CA 94117",(415) 437-0303
+The Crew,3.9,604,"['Korean', 'Barbeque', 'Asian Fusion']",2.0,"1330 Noriega St, San Francisco, CA 94122",(415) 665-8548
+Cha Cha Cha,3.9,3476,"['Caribbean', 'Cuban', 'Tapas Bars']",2.0,"1801 Haight St, San Francisco, CA 94117",(415) 386-7670
+Farmhouse Kitchen Thai Cuisine,4.1,3707,"['Thai', 'Coffee & Tea', 'Cocktail Bars']",2.0,"710 Florida St, San Francisco, CA 94110",(415) 814-2920
+State Bird Provisions,4.2,3276,"['Tapas/Small Plates', 'New American', 'Desserts']",4.0,"1529 Fillmore St, San Francisco, CA 94115",(415) 795-1272
+Wooden Spoon,4.4,716,['Breakfast & Brunch'],2.0,"2172 Market St, San Francisco, CA 94114",(415) 946-3005
+Jang,5.0,3,"['Japanese', 'Korean', 'Barbeque']",2.0,"22 Franklin St, San Francisco, CA 94102",(510) 529-1002
+Bodega,4.4,610,"['Vietnamese', 'Noodles', 'Cocktail Bars']",2.0,"138 Mason St, San Francisco, CA 94102",(415) 655-9341
+Routier,4.4,181,['French'],4.0,"2801 California St, San Francisco, CA 94115",(415) 766-9997
+Abrazo,4.5,200,"['Spanish', 'New American', 'Seafood']",3.0,"2000 Hyde St, San Francisco, CA 94109",(415) 872-9239
+Kitchen Story,4.1,4137,"['Breakfast & Brunch', 'Asian Fusion', 'New American']",2.0,"3499 16th St, San Francisco, CA 94114",(415) 525-4905
+Caliente Bistro Kitchen,4.8,262,"['Mexican', 'Bars']",2.0,"4828 Geary Blvd, San Francisco, CA 94118",(415) 379-6250
+DACHA Kitchen & Bar,4.8,61,"['Modern European', 'Breakfast & Brunch', 'Cocktail Bars']",2.0,"1085 Sutter St, San Francisco, CA 94109",(415) 932-6672
+Four Chairs,4.3,542,['Breakfast & Brunch'],2.0,"3282 Mission St, San Francisco, CA 94110",(415) 400-4788
+Kaiyo Rooftop,3.8,835,"['Peruvian', 'Cocktail Bars', 'Sushi Bars']",2.0,"701 3rd St, Fl 12, San Francisco, CA 94105",(415) 800-8141
+Katsuo + Kombu,4.3,173,"['Japanese', 'Noodles']",2.0,"559 Divisadero St, San Francisco, CA 94117",(415) 829-3150
+Um Ma,3.8,770,"['Korean', 'Wine Bars', 'Chicken Wings']",2.0,"1220 9th Ave, San Francisco, CA 94122",(415) 943-6071
+Castro Indian Restaurant & Bar,4.7,75,"['Indian', 'Cocktail Bars', 'Vegan']",2.0,"468 Castro St, San Francisco, CA 94114",(415) 875-9141
+Beit Rima,4.5,806,"['Arabic', 'Mediterranean', 'Lebanese']",2.0,"138 Church St, San Francisco, CA 94114",(415) 703-0270
+Tacos El Tucan - San Francisco,4.6,23,['Tacos'],2.0,"3600 16th St, San Francisco, CA 94114",(415) 552-2515
+M Pot,4.6,14,['Chinese'],2.0,"832 Clement St, San Francisco, CA 94118",(415) 571-8076
+Rise Over Run,4.1,141,"['New American', 'Cocktail Bars']",2.0,"33 Turk St, San Francisco, CA 94102",(415) 523-9797
+Lavash,4.2,1694,"['Persian/Iranian', 'Wine Bars', 'Mediterranean']",2.0,"511 Irving St, San Francisco, CA 94122",(415) 664-5555
+Yakitori Edomasa,4.0,148,['Japanese'],3.0,"1581 Webster St, Ste 270, San Francisco, CA 94115",(415) 872-7646
+Heritage Restaurant & Bar,4.3,280,"['New American', 'Cocktail Bars']",2.0,"708 Clement St, San Francisco, CA 94118",(415) 386-2200
+Dumpling Story,4.5,230,"['Asian Fusion', 'Chinese', 'Noodles']",2.0,"2114 Fillmore St, San Francisco, CA 94115",(415) 829-3664
+Copra,4.1,457,['Indian'],3.0,"1700 Fillmore St, San Francisco, CA 94115",(415) 873-0795
+606,4.8,104,"['Hong Kong Style Cafe', 'Diners', 'Cantonese']",2.0,"606 Broadway, San Francisco, CA 94133",(415) 956-3338
+Chome,4.6,374,"['Izakaya', 'Gastropubs', 'Ramen']",3.0,"3601 26th St, San Francisco, CA 94110",(415) 655-9623
+Mamanoko,4.3,632,"['Japanese', 'Cocktail Bars', 'Sushi Bars']",2.0,"2317 Chestnut St, San Francisco, CA 94123",(415) 346-8494
+San Ho Won,4.6,593,"['Korean', 'Barbeque']",4.0,"2170 Bryant St, San Francisco, CA 94110",(415) 868-4479
+Oodle Yunnan Rice Noodle,4.6,161,"['Chinese', 'Noodles', 'Soup']",2.0,"3420 Balboa St, San Francisco, CA 94121",(415) 571-8889
+Taste Of Old Street,4.5,37,"['Chinese', 'Kebab', 'Noodles']",2.0,"5336 Geary Blvd, San Francisco, CA 94121",(415) 601-5571
+Fish In The Box,4.5,326,"['Poke', 'Sushi Bars', 'Seafood']",2.0,"800 Masonic Ave, San Francisco, CA 94117",(415) 563-2828
+The Pawn Shop,4.6,735,"['Speakeasies', 'Wine Bars', 'Tapas Bars']",2.0,"993 Mission St, San Francisco, CA 94103",(415) 874-8041
+Beit Rima,4.3,350,"['Arabic', 'Mediterranean', 'Lebanese']",2.0,"86 Carl St, San Francisco, CA 94117",(415) 566-1274
+Bagatella,4.3,111,"['New American', 'Italian', 'Mediterranean']",2.0,"3348 Steiner St, San Francisco, CA 94123",(415) 796-3086
+Burma Superstar,4.2,7588,['Burmese'],2.0,"309 Clement St, San Francisco, CA 94118",(415) 387-2147
+Movida,4.3,162,"['Persian/Iranian', 'Mexican']",2.0,"555 2nd St, San Francisco, CA 94107",(415) 212-6672
+Freekeh,4.7,192,"['Mediterranean', 'Middle Eastern']",2.0,"3126 16th St, San Francisco, CA 94103",(415) 553-8966
+Oraan Thai Eatery,4.6,90,['Thai'],2.0,"3750 Geary Blvd, San Francisco, CA 94118",(628) 219-7598
+The Rustic,4.7,92,"['Italian', 'Modern European', 'New American']",2.0,"215 Church St, San Francisco, CA 94114",(415) 872-7123
+Damansara,3.8,102,['Malaysian'],3.0,"1781 Church St, San Francisco, CA 94131",(415) 914-0931
+Sunset29 BBQ,5.0,58,"['Barbeque', 'Pop-Up Restaurants']",2.0,"San Francisco , CA 94116",(415) 723-2929
+Daeho Kalbijjim & Beef Soup,4.5,2046,"['Korean', 'Soup', 'Noodles']",3.0,"1620 Post St, San Francisco, CA 94115",(415) 563-1388
+CreoLa,4.5,236,"['Seafood', 'Cajun/Creole', 'Cocktail Bars']",2.0,"900 Stanyan St, San Francisco, CA 94117",(415) 260-3143
+Beach’n,4.6,133,"['Coffee & Tea', 'Breakfast & Brunch', 'Salad']",2.0,"4300 Judah St, San Francisco, CA 94122",(415) 682-4961
+Dumpling Home,4.5,1554,"['Dim Sum', 'Noodles', 'Asian Fusion']",2.0,"298 Gough St, San Francisco, CA 94102",(415) 503-1666
+That's My Jam,4.8,94,"['Breakfast & Brunch', 'New American', 'Coffee & Tea']",2.0,"324 Divisadero St, San Francisco, CA 94117",(415) 349-0595
+Bocconcino,4.7,96,['Italian'],2.0,"516 Green St, San Francisco, CA 94133",(415) 932-6189
+Copper Bar Kitchen & Microbrewery,4.4,32,"['Cocktail Bars', 'Breakfast & Brunch']",2.0,"4092 18th St, San Francisco, CA 94114",(415) 529-1122
+Teakwood,3.9,133,['Burmese'],3.0,"399 Grove St, San Francisco, CA 94102",(415) 874-9000
+Minnie Bells Soul Movement,4.8,25,"['Soul Food', 'Chicken Wings', 'Southern']",2.0,"1375 Fillmore St, San Francisco, CA 94115",(510) 879-7199
+Surisan,4.3,3614,"['Korean', 'New American', 'Breakfast & Brunch']",2.0,"505 Beach St, San Francisco, CA 94133",(415) 771-8449
+The Pig & Whistle,4.0,527,"['Pubs', 'British']",2.0,"2801 Geary Blvd, San Francisco, CA 94118",(415) 885-4779
+NOVY Restaurant,4.1,575,"['Mediterranean', 'Greek', 'Breakfast & Brunch']",2.0,"4000 24th St, San Francisco, CA 94114",(415) 829-8383
+Ernest,4.3,487,"['New American', 'Seafood', 'Bars']",3.0,"1890 Bryant St, Ste 100, San Francisco, CA 94110",(415) 829-2961
+Seven Hills,4.5,1378,"['Italian', 'Wine Bars']",3.0,"1896 Hyde St, San Francisco, CA 94109",(415) 775-1550
+The Italian Homemade Company,4.3,1252,"['Italian', 'Pasta Shops', 'Desserts']",2.0,"1919 Union St, San Francisco, CA 94123",(415) 625-5965
+Roaming Goat,4.6,82,"['Wine Bars', 'Mediterranean', 'Armenian']",2.0,"1830 Union St, San Francisco, CA 94123",(415) 769-7281
+Tanglad,4.5,296,['Vietnamese'],2.0,"469 Castro St, San Francisco, CA 94114",(415) 624-3238
+San Tung,4.1,8189,"['Chinese', 'Chicken Wings', 'Noodles']",2.0,"1031 Irving St, San Francisco, CA 94122",(415) 242-0828
+Manna,4.2,1464,['Korean'],2.0,"845 Irving St, San Francisco, CA 94122",(415) 665-5969
+Suppenküche,4.1,3350,['German'],2.0,"525 Laguna St, San Francisco, CA 94102",(415) 252-9289
+Marcella's Lasagneria,4.6,544,['Italian'],2.0,"1099 Tennessee St, San Francisco, CA 94107",(415) 920-2225
+C.Q. Noodles,4.5,188,"['Chinese', 'Noodles', 'Soup']",2.0,"2121 Clement St, San Francisco, CA 94121",(415) 751-5332
+Blush!,3.9,328,"['Wine Bars', 'French']",2.0,"476 Castro St, San Francisco, CA 94114",(415) 558-0893
+Sikdang Woori,4.5,50,['Korean'],2.0,"1506 Fillmore St, San Francisco, CA 94115",(415) 658-7974
+The Morris,4.5,409,"['New American', 'Cocktail Bars', 'Desserts']",3.0,"2501 Mariposa St, San Francisco, CA 94110",(415) 612-8480
+Ox & Tiger,4.9,99,"['Filipino', 'Japanese']",4.0,"552 Jones St, San Francisco, CA 94102",(415) 992-3827
+Roma Antica,4.5,1497,"['Pizza', 'Italian', 'Pasta Shops']",2.0,"3242 Scott St, San Francisco, CA 94123",(415) 896-4281
+Alnico,4.3,828,"['Asian Fusion', 'Breakfast & Brunch', 'Chicken Wings']",2.0,"1050 Valencia St, San Francisco, CA 94110",(415) 757-0889
+Corks,4.7,109,"['Wine Bars', 'Italian']",2.0,"4342 California St, San Francisco, CA 94118",(415) 650-3002
+Matterhorn Restaurant & Bakery,4.5,191,"['Modern European', 'Fondue']",3.0,"2323 Van Ness Ave, San Francisco, CA 94109",(415) 829-7540
+Gurung Kitchen,4.5,134,"['Himalayan/Nepalese', 'Indian']",2.0,"1033 Irving St, San Francisco, CA 94122",(415) 379-4674
+Andina,4.8,35,"['Venezuelan', 'Comfort Food']",2.0,"205 Franklin St, San Francisco, CA 94102",(415) 287-6599
+Hu Tong Jian Bing,3.9,39,['Pop-Up Restaurants'],2.0,"2291 3rd St, San Francisco, CA 94107",(415) 529-2015
+Fiorella - Sunset,4.2,329,"['Italian', 'Pizza', 'Cocktail Bars']",3.0,"1240 9th Ave, San Francisco, CA 94122",(415) 404-6997
+Coqueta,4.0,2575,"['Spanish', 'Tapas/Small Plates']",3.0,"The Embarcadero, Pier 5, San Francisco, CA 94111",(415) 704-8866
+Moku Yakitori-Ya,4.3,130,"['Izakaya', 'Tapas/Small Plates']",2.0,"312 8th Ave, San Francisco, CA 94118",(415) 555-5555
+Zazie,4.2,5268,"['Breakfast & Brunch', 'French', 'Wine Bars']",2.0,"941 Cole St, San Francisco, CA 94117",(415) 564-5332
+Woodhouse Fish,4.1,2599,"['Seafood', 'New American']",2.0,"1914 Fillmore St, San Francisco, CA 94115",(415) 437-2722
+Komaaj Pila Bazaar,4.7,235,"['Persian/Iranian', 'Vegetarian', 'Wraps']",2.0,"10 29th st, San Francisco, CA 94110",(415) 598-8286
+Cole Valley Tavern,4.2,105,"['Cocktail Bars', 'Burgers', 'Fish & Chips']",2.0,"900 Cole St, San Francisco, CA 94117",(415) 681-7678
+Gao Viet Kitchen & Bar,4.3,517,"['Cocktail Bars', 'Vietnamese', 'Seafood']",3.0,"1900 Irving St, San Francisco, CA 94122",(415) 592-8090
+opa cafe,4.6,567,"['Mediterranean', 'Sandwiches', 'Salad']",2.0,"2401 Post St, San Francisco, CA 94115",(415) 913-7745
+Fin Thai SF ,4.8,57,"['Seafood', 'Thai', 'Wine Bars']",2.0,"2327 Polk St, San Francisco, CA 94109",(415) 636-9966
+ZZAN,4.3,722,"['Korean', 'Barbeque', 'Soup']",2.0,"643 Post St, San Francisco, CA 94109",(415) 872-9977
+El Farolito,4.2,5449,['Mexican'],1.0,"2779 Mission St, San Francisco, CA 94110",(415) 824-7877
+Destapas,4.6,151,"['Spanish', 'Tapas Bars', 'Wine Bars']",3.0,"2708 24th St, San Francisco, CA 94110",(415) 829-7045
+Scopo Divino,4.4,387,"['Wine Bars', 'New American', 'Breakfast & Brunch']",2.0,"2800 California St, San Francisco, CA 94115",(415) 928-3728
+Secret Garden,4.4,10,['New American'],2.0,"2128 Folsom St, San Francisco, CA 94110",(415) 552-1199
+Original Joe's,4.1,2141,"['Italian', 'Steakhouses', 'Breakfast & Brunch']",3.0,"601 Union St, San Francisco, CA 94133",(415) 775-4877
+The Bite,4.7,195,"['Mediterranean', 'Vegan', 'Gluten-Free']",2.0,"996 Mission St, San Francisco, CA 94103",(415) 757-0414
+Bay Pocha,4.2,143,['Korean'],2.0,"2642 Ocean Ave, San Francisco, CA 94132",(415) 564-1500
+Mamahuhu,4.0,111,['Asian Fusion'],2.0,"3991 24th St, San Francisco, CA 94114",(415) 374-7012
+Cantina Los Mayas,4.7,116,"['Mexican', 'Wine Bars']",3.0,"431 Balboa St, San Francisco, CA 94118",(415) 571-8027
+Dumpling Kitchen,4.1,2146,['Chinese'],2.0,"1935 Taraval St, San Francisco, CA 94116",(415) 682-8938
+Unco Frank’s,4.5,95,['Hawaiian'],2.0,"443 Clement St, San Francisco, CA 94118",(510) 279-8642
+Zajang Grill,4.5,135,"['Korean', 'Buffets', 'Barbeque']",3.0,"852 Clement St, San Francisco, CA 94118",(628) 283-0427
+Bodega,4.4,313,"['Wine Bars', 'Beer Bar', 'New American']",2.0,"700 Columbus Ave, San Francisco, CA 94133",(415) 634-7002
+Sweet Maple,4.3,4834,"['American', 'Breakfast & Brunch', 'Burgers']",2.0,"2101 Sutter St, San Francisco, CA 94115",(415) 655-9169
+Niku Steakhouse,4.4,737,"['Japanese', 'Steakhouses']",4.0,"61 Division St, San Francisco, CA 94103",(415) 829-7817
+Presidio Kebab,4.7,331,"['Mediterranean', 'Kebab', 'Breakfast & Brunch']",2.0,"3277 Sacramento St, San Francisco, CA 94115",(415) 947-7163
+Little Original Joe's,4.3,357,"['Pizza', 'Italian', 'Beer, Wine & Spirits']",2.0,"393 W Portal Ave, San Francisco, CA 94127",(415) 759-1155
+Ben’s Fast Food,4.6,234,"['New American', 'Fast Food', 'Gluten-Free']",1.0,"60 Morris St, San Francisco, CA 94107",(415) 644-8377
+Box Kitchen,4.3,837,"['Food Stands', 'Burgers', 'Waffles']",2.0,"431 Natoma St, San Francisco, CA 94103",(415) 580-7170
+Kiln,4.7,60,['New American'],4.0,"149 Fell St, San Francisco, CA 94102",(415) 982-9722
+Bay Of Burma,4.8,48,"['Burmese', 'Caterers']",2.0,"1174 Folsom St, San Francisco, CA 94103",(415) 757-0261
+Pizzetta 211,4.3,1503,"['Pizza', 'Salad', 'Wine Bars']",2.0,"211 23rd Ave, San Francisco, CA 94121",(415) 379-9880
+AltoVino,4.7,218,"['Wine Bars', 'Italian', 'Comfort Food']",3.0,"1358 Mason St, San Francisco, CA 94133",(415) 529-2435
+Leopold's,4.4,1099,"['German', 'Austrian', 'Bars']",2.0,"2400 Polk St, San Francisco, CA 94109",(415) 874-9829
+Georgian Cheese Boat,4.5,124,['Georgian'],2.0,"1224 Grant Ave, San Francisco, CA 94133",(415) 757-0562
+Damn Fine,4.3,372,"['Pizza', 'Wine Bars', 'Cocktail Bars']",2.0,"3410 Judah St, San Francisco, CA 94122",(415) 941-7503
+TaishoSF,4.8,65,"['Japanese', 'Beer Bar', 'Karaoke']",2.0,"1161 Post St, San Francisco, CA 94109",(415) 829-2997
+O'Brien's Irish Pub,4.4,56,"['Irish Pub', 'Sports Bars', 'Breakfast & Brunch']",2.0,"1940 Taraval St, San Francisco, CA 94116",(415) 463-6712
+Brenda's French Soul Food,4.2,12264,"['Breakfast & Brunch', 'Southern', 'Cajun/Creole']",2.0,"652 Polk St, San Francisco, CA 94102",(415) 345-8100
+Uma Casa,4.2,363,"['Portuguese', 'Cocktail Bars']",3.0,"1550 Church St, San Francisco, CA 94131",(415) 829-2264
+Ushi Taro Ramen,4.3,594,['Ramen'],2.0,"1382 9th Ave, San Francisco, CA 94122",(415) 702-6014
+Cracked & Battered - Marina,4.6,505,"['Breakfast & Brunch', 'New American', 'Halal']",2.0,"2240 Chestnut St, San Francisco, CA 94123",(415) 638-6022
+Troya,4.0,771,"['Mediterranean', 'Turkish']",2.0,"2125 Fillmore St, San Francisco, CA 94115",(415) 563-1000
+Curry Hyuga,4.7,101,"['Japanese Curry', 'Comfort Food']",2.0,"1819 Market St, San Francisco, CA 94103",(415) 347-3134
+California Fish Market Restaurant,4.4,665,"['Seafood', 'Fish & Chips', 'Italian']",2.0,"550 Green St, San Francisco, CA 94133",(415) 757-0918
+Mariposas ,4.6,65,['Peruvian'],2.0,"825 Mission St, San Francisco, CA 94103",(415) 845-1557
+Best Kept Secret,4.1,75,"['Lounges', 'Cocktail Bars', 'Asian Fusion']",2.0,"1055 Taraval St, San Francisco, CA 94116",(415) 598-8220
+Okaeri Japanese Bistro,4.5,311,"['Sushi Bars', 'Japanese']",2.0,"3515 20th St, San Francisco, CA 94110",(415) 655-9588
+Mr Szechuan,4.3,686,"['Chinese', 'Bubble Tea', 'Noodles']",2.0,"890 Taraval St, San Francisco, CA 94116",(415) 753-8788
+Sandy's,4.6,172,['Sandwiches'],2.0,"1457 Haight St, San Francisco, CA 94117",(415) 655-9691
+Dumpling House,4.3,509,"['Dim Sum', 'Asian Fusion']",2.0,"335 Noe St, San Francisco, CA 94114",(415) 829-2789
+Toyama Sushi,4.4,505,"['Japanese', 'Sushi Bars']",2.0,"3727 Geary Blvd, San Francisco, CA 94118",(415) 221-9811
+Cafe Okawari,4.5,403,"['Japanese', 'Cafes']",2.0,"236 Townsend St, San Francisco, CA 94107",(415) 801-5927
+Hinodeya Japantown,4.2,2047,['Ramen'],2.0,"1737 Buchanan St, San Francisco, CA 94115",(415) 216-5011
+Rich Table,4.2,1578,"['New American', 'Cocktail Bars', 'Wine Bars']",3.0,"199 Gough St, San Francisco, CA 94102",(415) 355-9085
+Hokkaido Sashimi Marketplace,4.4,62,"['Japanese', 'Live/Raw Food', 'Seafood Markets']",2.0,"5423 Geary Blvd, San Francisco, CA 94121",(415) 876-2828
+Firefly Restaurant,4.2,1561,"['New American', 'Desserts', 'Soup']",3.0,"4288 24th St, San Francisco, CA 94114",(415) 821-7652
+Pa'ina Lounge & Restaurant,3.9,860,"['Hawaiian', 'Bars', 'Venues & Event Spaces']",2.0,"1865 Post St, San Francisco, CA 94115",(415) 829-2642
+Anchor Oyster Bar,4.5,1689,['Seafood'],2.0,"579 Castro St, San Francisco, CA 94114",(415) 431-3990
+Pasta Panino,4.6,90,"['Italian', 'Pasta Shops']",2.0,"4150 18th St, San Francisco, CA 94114",(415) 829-3829
+Fermentation Lab,4.5,342,['Gastropubs'],2.0,"1230 Market St, San Francisco, CA 94102",(415) 658-7177
+Bistro Central Parc,4.3,1102,"['French', 'Breakfast & Brunch', 'Italian']",2.0,"560 Central Ave, San Francisco, CA 94117",(415) 525-3064
+MaMo,4.4,238,"['Latin American', 'New American', 'Beer, Wine & Spirits']",2.0,"3659 Buchanan St, San Francisco, CA 94123",(415) 658-7150
+Peacock Pansy,4.3,178,['Breakfast & Brunch'],2.0,"392 Fulton St, San Francisco, CA 94102",(628) 246-2354
+Paris 75,4.9,70,"['Lounges', 'Tapas/Small Plates', 'Wine Bars']",2.0,"515 Broadway, San Francisco, CA 94133",(415) 936-3266
+Brenda's Meat & Three,4.2,1541,"['Breakfast & Brunch', 'Southern', 'Cajun/Creole']",2.0,"919 Divisadero St, San Francisco, CA 94115",(415) 926-8657
+Bocado,4.4,167,"['Peruvian', 'Desserts', 'Cocktail Bars']",2.0,"701 Folsom St, San Francisco, CA 94107",(415) 654-5931
+Ciccino,4.5,89,['Italian'],2.0,"1400 California, San Francisco, CA 94109",(415) 260-4810
+Joyful Garden,3.5,4,['Chinese'],2.0,"438 Castro St, San Francisco, CA 94114",(415) 888-8929
+Sorella,4.3,227,"['Italian', 'Wine Bars', 'Cocktail Bars']",3.0,"1760 Polk St, San Francisco, CA 94109",(415) 359-1212
+Parada 22,4.2,1481,"['Latin American', 'Puerto Rican', 'Breakfast & Brunch']",2.0,"1805 Haight St, San Francisco, CA 94117",(415) 750-1111
+Burma Love,4.1,1749,"['Burmese', 'Cocktail Bars', 'Seafood']",2.0,"211 Valencia St, San Francisco, CA 94103",(415) 861-2100
+Amsterdam Café,4.3,209,"['Pizza', 'Sandwiches', 'Modern European']",1.0,"930 Geary St, San Francisco, CA 94109",(415) 529-1527
+Pasha Sf,4.4,58,"['Mediterranean', 'Wraps', 'Hookah Bars']",2.0,"673 Geary St, San Francisco, CA 94102",(415) 567-8960
+Amal's Deli,4.8,55,"['Delis', 'Convenience Stores', 'Sandwiches']",1.0,"1416 Haight St, San Francisco, CA 94117",(415) 626-7457
+Xiao Yus Kitchen,4.4,51,"['Japanese Curry', 'Ramen']",2.0,"560 Balboa St, San Francisco, CA 94118",(415) 742-4392
+Gumbo Social,4.7,100,"['Soul Food', 'Sandwiches']",2.0,"5176 3rd St, San Francisco, CA 94124",(415) 655-9195
+Birba,4.4,193,"['Wine Bars', 'New American']",2.0,"458 Grove St, San Francisco, CA 94102",(415) 549-7612
+Hillstone,4.0,2514,"['New American', 'Wine Bars']",3.0,"1800 Montgomery St, San Francisco, CA 94111",(415) 392-9280
+Breadbelly,4.5,591,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",2.0,"1408 Clement St, San Francisco, CA 94118",(415) 349-0969
+Paprika,4.4,449,"['Czech', 'German', 'Hungarian']",2.0,"3324 24th St, San Francisco, CA 94110",(415) 375-1477
+The Richmond,4.5,769,['New American'],3.0,"615 Balboa St, San Francisco, CA 94118",(415) 379-8988
+Mamahuhu,4.0,435,['Chinese'],2.0,"517 Clement St, San Francisco, CA 94118",(415) 742-4958
+DragonEats,4.4,327,['Vietnamese'],2.0,"1671 Haight St, San Francisco, CA 94117",(415) 522-6689
+Willkommen,4.1,260,"['German', 'Breweries', 'Gluten-Free']",2.0,"2198 Market St, San Francisco, CA 94114",(415) 766-9225
+Dumpling Baby China Bistro,4.3,213,"['Chinese', 'Asian Fusion', 'Noodles']",2.0,"3751 Geary Blvd, San Francisco, CA 94118",(415) 592-8232
+Sisterita,4.6,504,"['Breakfast & Brunch', 'New American', 'Thai']",2.0,"669 Commercial St, San Francisco, CA 94111",(415) 649-1919
+Souvla,4.2,594,"['Mediterranean', 'Greek']",2.0,"531 Divisadero St, San Francisco, CA 94117",(415) 840-1500
+a Mano,4.1,1683,"['Italian', 'Cocktail Bars', 'Pizza']",3.0,"450 Hayes St, San Francisco, CA 94102",(415) 506-7401
+Ragazza,4.1,780,"['Italian', 'Pizza']",2.0,"311 Divisadero St, San Francisco, CA 94117",(415) 255-1133
+ABACÁ,4.0,625,['Filipino'],3.0,"2700 Jones St, San Francisco, CA 94133",(415) 486-0788
+Sorrel ,4.1,357,"['New American', 'Italian']",4.0,"3228 Sacramento St, San Francisco, CA 94115",(415) 525-3765
+Lolinda,4.2,2420,"['Steakhouses', 'Tapas/Small Plates', 'Latin American']",3.0,"2518 Mission St, San Francisco, CA 94110",(415) 550-6970
+Kitchen Istanbul,4.4,543,"['Greek', 'Turkish', 'Mediterranean']",3.0,"349 Clement St, San Francisco, CA 94118",(415) 753-9479
+Eats,3.9,1347,"['American', 'Breakfast & Brunch']",2.0,"50 Clement St, San Francisco, CA 94118",(415) 751-8000
+Flores San Francisco,4.1,1079,"['Mexican', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"2030 Union St, San Francisco, CA 94123",(415) 796-2926
+Ofena,4.5,105,"['Italian', 'Bars']",2.0,"2529 Ocean Ave, San Francisco, CA 94132",(415) 347-7272
+Radhaus,4.2,652,"['German', 'Gastropubs', 'Breakfast & Brunch']",3.0,"2 Marina Blvd, Bldg A, San Francisco, CA 94123",(415) 445-4556
+Collina,4.7,47,"['Italian', 'Desserts']",2.0,"1550 Hyde St, San Francisco, CA 94109",(415) 775-1542
+Dash Japanese Tapas & Sushi,4.5,49,"['Sushi Bars', 'Japanese', 'Tapas Bars']",2.0,"737 Diamond St, San Francisco, CA 94114",(415) 655-9197
+The Buena Vista,4.1,3186,"['Bars', 'Cafes', 'Breakfast & Brunch']",2.0,"2765 Hyde St, San Francisco, CA 94109",(415) 474-5044
+Cotogna,4.1,2019,['Italian'],3.0,"490 Pacific Ave, San Francisco, CA 94133",(415) 775-8508
+Ken,4.9,87,"['Japanese', 'Sushi Bars']",4.0,"252 Divisadero St, San Francisco, CA 94117",(628) 867-7113
+Prik Hom,4.5,84,"['Thai', 'Asian Fusion']",2.0,"3226 Geary Blvd, San Francisco, CA 94118",(415) 689-0652
+Heroic Italian,4.5,114,"['Italian', 'Sandwiches', 'Wine Bars']",2.0,"572 Castro St, Swirl on Castro Wine Bar, San Francisco, CA 94114",(650) 224-5999
+3rd Cousin,4.1,474,['New American'],4.0,"919 Cortland Ave, San Francisco, CA 94110",(415) 814-3709
+Dynasty Dumpling ,4.7,132,"['Dim Sum', 'Noodles']",2.0,"2786 California St, San Francisco, CA 94115",(415) 921-0188
+Rooftop 25,3.8,276,"['Cocktail Bars', 'American']",2.0,"25 Lusk St, San Francisco, CA 94107",(415) 495-5875
+Mama Mu's Bistro,4.5,66,['Thai'],2.0,"1316 Noriega St, San Francisco, CA 94122",(415) 753-9906
+The Korner Store Bites & Vibes,4.7,61,"['Korean', 'Bars']",2.0,"4516 Mission St, San Francisco, CA 94112",(415) 859-7111
+Queen's Louisiana Po-Boy Cafe,3.7,734,"['Cajun/Creole', 'Southern', 'Seafood']",2.0,"33 The Embarcadero, Ste 100, San Francisco, CA 94133",(415) 397-1507
+Garibaldis,4.0,595,['New American'],3.0,"347 Presidio Ave, San Francisco, CA 94115",(415) 563-8841
+Komeya No Bento,4.7,190,"['Japanese', 'Coffee & Tea']",2.0,"3137 Laguna St, San Francisco, CA 94123",(415) 795-1065
+Sonamu Korean Restaurant,4.5,77,['Korean'],2.0,"5716 Geary Blvd, San Francisco, CA 94121",(415) 578-6808
+Wasabi Bistro,3.8,670,"['Sushi Bars', 'Japanese']",2.0,"524 Castro St, San Francisco, CA 94114",(415) 701-0082
+Lime Tree Southeast Asian Kitchen,4.0,1575,"['Malaysian', 'Indonesian', 'Noodles']",2.0,"450 Irving St, San Francisco, CA 94122",(415) 665-1415
+Lupa Trattoria,4.1,731,['Italian'],2.0,"4109 24th St, San Francisco, CA 94114",(415) 282-5872
+Base Camp,4.5,318,['Himalayan/Nepalese'],2.0,"2400 Folsom St, San Francisco, CA 94110",(415) 654-5349
+Joodang,4.5,71,"['Bars', 'Korean', 'Japanese']",2.0,"250 Hyde St, San Francisco, CA 94102",(415) 400-6010
+Hazie's,4.2,196,"['Cocktail Bars', 'New American', 'Breakfast & Brunch']",2.0,"501 Hayes St, San Francisco, CA 94102",(415) 678-5156
+Bella Trattoria,4.3,1919,"['Italian', 'Bars', 'Pasta Shops']",2.0,"3854 Geary Blvd, San Francisco, CA 94118",(415) 221-0305
+Souvla,4.1,1766,"['Greek', 'Mediterranean']",2.0,"517 Hayes St, San Francisco, CA 94102",(415) 570-6500
+Mezze and Mooore,4.7,203,"['Mediterranean', 'Lebanese']",2.0,"198 Guerrero St, San Francisco, CA 94103",(415) 654-5089
+Yuji,4.8,57,['Japanese'],2.0,"1700 post st, Unit K, San Francisco, CA 94115",(415) 658-7128
+Azalina's,4.6,68,"['Malaysian', 'Halal']",2.0,"499 Ellis St, San Francisco, CA 94102",(415) 205-9284
+Gozu,4.3,135,"['Japanese', 'Bars', 'Seafood']",4.0,"201 Spear St, Ste 120, San Francisco, CA 94105",(415) 523-9745
+L’Ardoise Bistro,4.5,1424,"['French', 'Wine Bars', 'Desserts']",4.0,"151 Noe St, San Francisco, CA 94114",(415) 437-2600
+New Burma,4.5,123,"['Burmese', 'Vegetarian']",2.0,"659 Townsend St, San Francisco, CA 94107",(415) 552-4782
+The Italian Homemade Company,4.3,1957,"['Italian', 'Pasta Shops', 'International Grocery']",2.0,"716 Columbus Ave, San Francisco, CA 94133",(415) 712-8874
+Causwells,4.2,1054,"['New American', 'Burgers', 'Breakfast & Brunch']",2.0,"2346 Chestnut St, San Francisco, CA 94123",(415) 447-6081
+Sunset Cantina,4.4,403,"['Cocktail Bars', 'Mexican']",2.0,"3414 Judah St, San Francisco, CA 94122",(415) 571-8874
+Itria,4.4,331,['Italian'],2.0,"3266 24th St, San Francisco, CA 94110",(415) 874-9821
+Besharam,3.8,508,"['Indian', 'Vegetarian']",3.0,"1275 Minnesota St, San Francisco, CA 94107",(415) 580-7662
+High Horse,4.5,61,"['New American', 'Cocktail Bars']",2.0,"582 Washington St, San Francisco, CA 94111",(415) 981-1500
+Yakiniku Shodai,4.7,86,"['Japanese', 'Barbeque']",4.0,"1420 Market St, San Francisco, CA 94102",(415) 757-0201
+Flour + Water Pizzeria,4.1,169,"['Pizza', 'Desserts', 'Salad']",2.0,"532 Columbus Ave, San Francisco, CA 94133",(415) 529-1617
+Hardwood Bar & Smokery,4.2,199,"['Sports Bars', 'Barbeque', 'American']",2.0,"680 8th St, Ste 170, San Francisco, CA 94103",(415) 796-2437
+"Bon, Nene",4.2,414,"['Japanese', 'Asian Fusion']",2.0,"2850 21st St, San Francisco, CA 94110",(415) 872-9332
+Che Fico Alimentari,4.0,194,['Italian'],3.0,"834 Divisadero St, San Francisco, CA 94117",(415) 416-6980
+Poesia,4.0,908,"['Italian', 'Bars']",3.0,"4072 18th St, San Francisco, CA 94114",(415) 252-9325
+Taksim,4.4,172,"['Mediterranean', 'Wine Bars', 'Venues & Event Spaces']",2.0,"564 4th St, San Francisco, CA 94107",(415) 757-0989
+Belle Cora,4.4,133,"['Wine Bars', 'New American', 'Music Venues']",2.0,"565 Green St, San Francisco, CA 94133",(415) 872-5451
+Brazen Head,4.1,885,"['Steakhouses', 'Gastropubs', 'American']",3.0,"3166 Buchanan St, San Francisco, CA 94123",(415) 921-7600
+PLS on Post,4.5,36,"['American', 'Bars', 'Burgers']",2.0,"545 Post St, San Francisco, CA 94102",(415) 447-6975
+Wildseed,4.4,1533,"['Vegan', 'Cocktail Bars']",2.0,"2000 Union St, San Francisco, CA 94123",(415) 872-7350
+Saucy Asian,4.3,456,"['Korean', 'Asian Fusion', 'Pan Asian']",2.0,"3801 17th St, San Francisco, CA 94114",(415) 834-5555
+Om Sabor,4.5,114,"['Pop-Up Restaurants', 'Vegan']",2.0,"370 Grove St, Phonobar, San Francisco, CA 94102",(831) 291-3773
+Cocina Mamá Cholita,4.9,163,"['Mexican', 'Breakfast & Brunch']",2.0,"3471 Mission St, San Francisco, CA 94110",(415) 874-9720
+Dumpling Kitchen,4.3,125,"['Dim Sum', 'Noodles']",2.0,"544 Castro St, San Francisco, CA 94114",(415) 874-9882
+Chez Maman West,4.1,1583,"['French', 'Burgers']",2.0,"401 Gough St, San Francisco, CA 94102",(415) 355-9067
+Kaiju Eats Ramen and Izakaya,4.0,953,"['Ramen', 'Izakaya', 'Desserts']",2.0,"3409 Geary Blvd, San Francisco, CA 94118",(415) 742-4309
+Shelby's Rooftop Lounge,4.1,184,"['Lounges', 'New American']",3.0,"250 4th St, San Francisco, CA 94103",(650) 302-5079
+Tastebuds,4.2,282,"['Cafes', 'Soul Food', 'Breakfast & Brunch']",2.0,"600 5th Ave, San Francisco, CA 94118",(415) 668-9298
+MaMa Ji's,3.8,898,"['Dim Sum', 'Szechuan']",2.0,"4416 18th St, San Francisco, CA 94114",(415) 626-4416
+Bento Peak,4.5,90,['Japanese'],2.0,"4724 Geary Blvd, San Francisco, CA 94118",(415) 592-8069
+Al Carajo,4.9,176,['Mexican'],2.0,"3224 1/2 22nd St, San Francisco, CA 94110",(415) 400-4146
+Ganji,4.7,46,['Japanese'],2.0,"1740 Buchanan St, San Francisco, CA 94115",(415) 413-0717
+Vive La Tarte,4.3,144,"['Bakeries', 'Breakfast & Brunch', 'Cafes']",2.0,"4026 24th St, San Francisco, CA 94114",(415) 780-5818
+Aphotic,4.4,290,"['Cocktail Bars', 'Seafood']",4.0,"816 Folsom St, San Francisco, CA 94107",(415) 865-0529
+Lime Tree Southeast Asian Kitchen,4.3,430,"['Malaysian', 'Indonesian', 'Noodles']",2.0,"836 Clement St, San Francisco, CA 94118",(415) 831-8811
+Casa Borinquena,4.8,12,"['Puerto Rican', 'Vegan']",2.0,"945 Market St, San Francisco, CA 94103",(415) 779-5901
+Emmita's Cafe,4.7,56,['Cafes'],2.0,"1635 Divisadero St, San Francisco, CA 94115",(628) 223-0386
+Chez Maman East,4.4,2436,"['French', 'Burgers', 'Creperies']",2.0,"1401 18th St, San Francisco, CA 94107",(415) 655-9542
+Blue Whale Restaurant & Lounge,4.2,133,"['Chinese', 'Lounges', 'Pan Asian']",2.0,"2033 Union St, San Francisco, CA 94123",(415) 592-6009
+Limoncello,4.8,1739,"['Sandwiches', 'Delis', 'Beer, Wine & Spirits']",2.0,"1400 Sutter St, San Francisco, CA 94109",(415) 638-6361
+La Connessa,4.4,121,"['Cocktail Bars', 'Italian', 'Desserts']",3.0,"1695 Mariposa St, San Francisco, CA 94107",(628) 221-0123
+Gyu-Kaku Japanese BBQ,3.8,293,"['Japanese', 'Asian Fusion', 'Barbeque']",3.0,"855 Howard St, San Francisco, CA 94103",(415) 757-0905
+Camino Alto,4.6,197,"['New American', 'Wine Bars', 'Breakfast & Brunch']",3.0,"1715 Union St, San Francisco, CA 94123",(415) 441-2111
+The Patio,4.6,169,"['Wine Bars', 'New American', 'Venues & Event Spaces']",2.0,"3232 Scott St, San Francisco, CA 94123",(415) 580-7080
+Piccino Restaurant,4.0,1571,"['Italian', 'Coffee & Tea', 'Cocktail Bars']",3.0,"1001 Minnesota St, San Francisco, CA 94107",(415) 824-4224
+La Ciccia,4.4,1241,"['Seafood', 'Sardinian']",3.0,"291 30th St, San Francisco, CA 94131",(415) 550-8114
+Scoma's Restaurant,4.1,4601,"['Seafood', 'Bars']",3.0,"1965 Al Scoma Way, San Francisco, CA 94133",(415) 771-4383
+Lost Resort,4.5,207,"['American', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"2736 20th St, San Francisco, CA 94110",(415) 237-0770
+Udon Mugizo,4.1,1791,"['Japanese', 'Noodles']",2.0,"1581 Webster St, Ste 217, San Francisco, CA 94115",(415) 931-3118
+STK San Francisco,4.2,1947,"['Venues & Event Spaces', 'Steakhouses']",2.0,"1 Market St, Ste M3, San Francisco, CA 94105",(415) 375-8094
+XICA,4.3,112,"['Mexican', 'Gluten-Free']",2.0,"1265 Battery St, San Francisco, CA 94111",(415) 829-3914
+InoVino,4.4,219,"['Italian', 'Wine Bars']",2.0,"108B Carl St, San Francisco, CA 94117",(415) 681-3770
+Penny Roma,3.9,343,"['Italian', 'Venues & Event Spaces']",2.0,"3000 20th St, San Francisco, CA 94110",(415) 826-7004
+Mr. Hen Noodles House,4.1,62,"['Chicken Shop', 'Noodles', 'Soup']",2.0,"4039 18th St, San Francisco, CA 94114",(415) 982-9598
+The Alembic,4.0,1696,"['New American', 'Cocktail Bars']",2.0,"1725 Haight St, San Francisco, CA 94117",(415) 666-0822
+Marlowe,4.0,2848,"['Diners', 'Breakfast & Brunch', 'Cocktail Bars']",3.0,"500 Brannan St, San Francisco, CA 94107",(415) 777-1413
+Go Duck Yourself,4.2,25,"['Barbeque', 'Cantonese']",2.0,"439 Cortland Ave, San Francisco, CA 94110",(415) 963-1222
+Pampanguena Cuisine,4.3,433,['Filipino'],2.0,"4441 Mission St, San Francisco, CA 94112",(415) 586-8899
+Han Il Kwan,4.1,1980,"['Korean', 'Barbeque']",2.0,"1802 Balboa St, San Francisco, CA 94121",(415) 752-4447
+Kin Khao,3.9,2485,['Thai'],3.0,"55 Cyril Magnin St, San Francisco, CA 94102",(415) 362-7456
+Cafe de Casa,4.6,202,"['Brazilian', 'Coffee & Tea']",2.0,"3985 17th St, San Francisco, CA 94114",(415) 829-7915
+Mersea Restaurant & Bar,4.6,1239,"['American', 'Bars']",2.0,"699 Ave Of The Palms, San Francisco, CA 94130",(415) 999-9836
+Betty Lou's Seafood and Grill,4.5,1074,"['Seafood', 'Steakhouses', 'Bars']",2.0,"318 Columbus Ave, San Francisco, CA 94133",(415) 757-0569
+Prubechu,4.4,645,"['Guamanian', 'Barbeque', 'Breakfast & Brunch']",2.0,"2224 Mission St, San Francisco, CA 94110",(415) 853-0671
+Anh Hong,4.5,86,"['Vietnamese', 'Asian Fusion']",2.0,"3123 Clement St, San Francisco, CA 94121",(415) 885-5180
+Perilla,4.1,1603,['Vietnamese'],2.0,"836 Irving St, San Francisco, CA 94122",(415) 564-9980
+PoBoys Kitchen,4.6,254,"['Southern', 'American', 'Cajun/Creole']",2.0,"317 Connecticut St, San Francisco, CA 94107",(415) 525-4088
+Inle Burmese Cuisine,4.1,247,"['Burmese', 'Noodles', 'Thai']",2.0,"822 Irving St, San Francisco, CA 94122",(415) 374-7378
+Outer Orbit,4.3,205,"['Hawaiian', 'Asian Fusion', 'Beer Bar']",2.0,"3215 Mission St, San Francisco, CA 94110",(415) 574-6166
+Manitas Cafe,4.5,197,"['Salvadoran', 'Breakfast & Brunch', 'Cafes']",2.0,"2078 Hayes St, San Francisco, CA 94117",(415) 213-5566
+Bubu,4.4,47,['Sushi Bars'],2.0,"2417 California St, San Francisco, CA 94115",(415) 796-3376
+Barcha,4.1,799,"['Mediterranean', 'Tapas/Small Plates', 'Cocktail Bars']",3.0,"28 Fremont St, San Francisco, CA 94105",(415) 757-0781
+Billingsgate,4.5,90,"['Seafood', 'Bars', 'Seafood Markets']",2.0,"3859 24th St, San Francisco, CA 94114",(415) 590-3001
+San Francisco Magic Theater At The Marrakech,4.9,1453,"['Comedy Clubs', 'Magicians', 'Dinner Theater']",2.0,"419 O'Farrell St, San Francisco, CA 94102",(415) 794-6893
+Pizzeria Delfina - Pacific Heights,3.9,1575,"['Pizza', 'Italian']",2.0,"2406 California St, San Francisco, CA 94115",(415) 440-1189
+Yuanbao Jiaozi - San Francisco ,4.3,662,"['Chinese', 'Noodles']",2.0,"2110 Irving St, San Francisco, CA 94122",(415) 702-6506
+Outerlands,3.8,2490,"['New American', 'Breakfast & Brunch', 'Cocktail Bars']",2.0,"4001 Judah St, San Francisco, CA 94122",(415) 661-6140
+Nob Hill Cafe,4.0,1542,"['Italian', 'Pizza']",2.0,"1152 Taylor St, San Francisco, CA 94108",(415) 776-6500
+Thai Nghiep Ky Mi Gia,4.4,631,"['Vietnamese', 'Chinese', 'Noodles']",2.0,"1427 Noriega St, San Francisco, CA 94122",(415) 682-8528
+Parker Potrero,4.4,286,['New American'],2.0,"1399 18th St, San Francisco, CA 94107",(415) 413-4355
+Mokuku,4.2,430,"['Hot Pot', 'Bars', 'Japanese']",3.0,"332 Clement St, San Francisco, CA 94103",(415) 702-6128
+Chao Pescao,4.4,272,"['Caribbean', 'Sandwiches', 'Salad']",2.0,"272 McAllister St, San Francisco, CA 94102",(415) 621-2200
+Barberio Osteria,4.7,53,"['Italian', 'Wine Bars', 'Seafood']",2.0,"557 Valencia St, San Francisco, CA 94110",(415) 874-9583
+7 Adams,4.3,91,"['American', 'Wine Bars']",4.0,"1963 Sutter St, San Francisco, CA 94115",(415) 655-9154
+The Melt,4.4,523,"['Burgers', 'Sandwiches', 'American']",2.0,"455 Market St, Ste 140, San Francisco, CA 94105",(415) 287-9819
+Del Popolo,4.0,671,['Pizza'],2.0,"855 Bush St, San Francisco, CA 94108",(415) 589-7940
+Se7enbuds Restaurant,4.8,29,"['Persian/Iranian', 'Afghan', 'Middle Eastern']",2.0,"1426 Polk St, San Francisco, CA 94109",(628) 221-1295
+Cultivar,4.3,251,"['New American', 'Wine Tasting Room', 'Venues & Event Spaces']",2.0,"2379 Chestnut St, San Francisco, CA 94123",(415) 962-4200
+Nojo Ramen Tavern,4.2,1265,"['Ramen', 'Izakaya']",2.0,"231 Franklin St, San Francisco, CA 94102",(415) 896-4587
+Fare Play,5.0,7,"['Pop-Up Restaurants', 'Venues & Event Spaces']",2.0,"167 11th St, San Francisco, CA 94103",(415) 510-1231
+Loló,4.2,2498,"['Mexican', 'Tapas/Small Plates']",2.0,"974 Valencia St, San Francisco, CA 94110",(415) 643-5656
+Bellota,4.1,802,"['Spanish', 'Seafood', 'Tapas Bars']",3.0,"888 Brannan St, San Francisco, CA 94103",(415) 430-6580
+Odumak,3.9,250,"['Chicken Wings', 'Korean']",2.0,"733 Taraval St, San Francisco, CA 94116",(415) 564-6400
+Boichik Bagels,3.9,36,"['Bagels', 'Sandwiches']",2.0,"3665 Sacramento St, San Francisco, CA 94118",(628) 967-7485
+The Italian Homemade Company,3.7,364,"['Italian', 'Desserts', 'Pasta Shops']",2.0,"1 Franklin St, San Francisco, CA 94102",(415) 757-0877
+Barrel Head Brewhouse,3.9,604,"['Breweries', 'American', 'Venues & Event Spaces']",2.0,"1785 Fulton St, San Francisco, CA 94117",(415) 416-6989
+Casaro Osteria,4.4,223,"['Pizza', 'Cocktail Bars']",2.0,"2136 Union St, San Francisco, CA 94123",(415) 374-7788
+The Melt,4.0,831,"['Burgers', 'Sandwiches', 'American']",2.0,"925 Market St, San Francisco, CA 94103",(415) 689-5879
+Banh Mi Crunch,4.8,180,"['Sandwiches', 'Vietnamese', 'Coffee & Tea']",2.0,"646 Irving St, San Francisco, CA 94122",(628) 256-3711
+14 Peaks Nepalese Cuisine,4.8,50,['Himalayan/Nepalese'],2.0,"2848 23rd St, San Francisco, CA 94110",(415) 796-3640
+Noosh,3.4,665,"['Mediterranean', 'Sandwiches', 'Cocktail Bars']",2.0,"2001 Fillmore St, San Francisco, CA 94115",(415) 231-5985
+Lapisara Eatery,4.6,1624,"['Breakfast & Brunch', 'Burgers', 'Thai']",2.0,"698 Post St, San Francisco, CA 94109",(415) 655-3556
+Noe Indian Cuisine,4.7,111,"['Indian', 'Himalayan/Nepalese']",2.0,"4166 24th St, San Francisco, CA 94114",(415) 648-4416
+HOT JOHNNIE’S SMOKEHOUSE,4.7,471,"['Sandwiches', 'Barbeque', 'Venues & Event Spaces']",2.0,"4077 18th St, San Francisco, CA 94114",(415) 624-3171
+Barista,4.9,29,['Cafes'],2.0,"3313 Sacramento St, San Francisco, CA 94118",(415) 875-9270
+Picnix Bistro,4.3,137,"['Vietnamese', 'Sandwiches', 'Coffee & Tea']",1.0,"3872 Sacramento St, San Francisco, CA 94118",(415) 751-2255
+Bar Gemini,4.3,14,"['Wine Bars', 'Seafood', 'Beer Bar']",2.0,"2845 18th St, San Francisco, CA 94110",(415) 940-9808
+Taishoken San Francisco,4.5,377,"['Ramen', 'Noodles', 'Soup']",2.0,"665 Valencia St, San Francisco, CA 94110",(415) 400-5336
+Beretta Valencia,4.0,4196,"['Italian', 'Pizza', 'Breakfast & Brunch']",2.0,"1199 Valencia St, San Francisco, CA 94110",(415) 695-1199
+The Codmother Fish & Chips,4.4,3355,"['British', 'Fish & Chips', 'Seafood']",2.0,"496 Bch St, San Francisco, CA 94133",(415) 606-9349
+Grace at SFMOMA,4.5,45,['French'],2.0,"151 Third St, San Francisco, CA 94103",(415) 590-2113
+Corzetti,4.3,163,"['Wine Bars', 'Italian', 'Cocktail Bars']",3.0,"398 Geary St, San Francisco, CA 94102",(415) 314-5288
+LaLe,4.2,656,"['Breakfast & Brunch', 'Mediterranean', 'Tapas/Small Plates']",2.0,"731 Irving St, San Francisco, CA 94122",(415) 566-8814
+Après Vous,4.8,20,"['Specialty Food', 'Italian', 'French']",2.0,"345 Taraval St, San Francisco, CA 94116",(415) 943-9960
+Chotto Matte,3.6,370,"['Sushi Bars', 'Seafood', 'Cocktail Bars']",4.0,"50 O'Farrell St, San Francisco, CA 94108",(415) 234-5650
+Hulu Wa China Bistro,4.7,28,"['Chinese', 'Noodles']",2.0,"3970 17th St, San Francisco, CA 94114",(415) 658-7877
+International Smoke San Francisco,3.9,2198,"['Barbeque', 'Seafood', 'Steakhouses']",3.0,"301 Mission St, San Francisco, CA 94105",(415) 660-2656
+Matsuyama Shabu House,3.9,87,"['Hot Pot', 'Japanese', 'Seafood']",2.0,"1726 Buchanan St, San Francisco, CA 94115",(415) 658-7656
+Seafood Station,4.5,149,"['Seafood', 'Cajun/Creole', 'New American']",2.0,"803 Cortland Ave, San Francisco, CA 94110",(415) 655-3245
+Norcina,4.3,297,"['Italian', 'Pasta Shops', 'Pizza']",3.0,"3251 Pierce St, San Francisco, CA 94123",(415) 654-2542
+Taco Boys,4.1,172,"['Tacos', 'Vegan']",2.0,"2312 Market St, San Francisco, CA 94114",(415) 829-3609
+Gusto Pinsa Romana,4.7,571,"['Pizza', 'Italian', 'Salad']",2.0,"1000 Bush St, San Francisco, CA 94109",(415) 839-5378
+Shokudou,4.6,117,"['Izakaya', 'Sushi Bars']",2.0,"1000 Cortland Ave, San Francisco, CA 94110",(415) 800-6883
+Mangrove Kitchen,4.0,412,"['Thai', 'Ramen']",2.0,"312 Divisadero St, San Francisco, CA 94117",(415) 552-6881
+Fiorella -Clement,4.1,622,"['Italian', 'Pizza', 'Wine Bars']",3.0,"2339 Clement St, San Francisco, CA 94121",(415) 340-3049
+jū-ni,4.6,519,"['Japanese', 'Sushi Bars']",4.0,"1335 Fulton St, Ste 101, San Francisco, CA 94117",(415) 655-9924
+El Lopo,4.5,142,"['Spanish', 'Tapas Bars', 'Wine Bars']",3.0,"1327 Polk St, San Francisco, CA 94109",(415) 237-3072
+Spruce,4.1,2277,['American'],4.0,"3640 Sacramento St, San Francisco, CA 94118",(415) 931-5100
+Big Fish House,4.5,96,"['Sushi Bars', 'Japanese', 'Cocktail Bars']",2.0,"2109 Clement St, San Francisco, CA 94121",(415) 933-9388
+Hog Island Oyster,4.4,7158,"['Seafood', 'Seafood Markets', 'Cocktail Bars']",2.0,"1 Ferry Bldg, Shop 11, San Francisco, CA 94111",(415) 391-7117
+Waterfall,4.7,125,"['Seafood', 'Latin American']",2.0,"1000 Potrero St, San Francisco, CA 94110",(415) 658-7134
+Arepas En Bici,4.7,48,"['Venezuelan', 'Personal Chefs', 'Pop-up Shops']",2.0,"San Francisco, CA 94109",(415) 660-0303
+Violet's,3.8,285,"['Cocktail Bars', 'American']",2.0,"2301 Clement St, San Francisco, CA 94121",(415) 682-4861
+Sacred Taco,4.2,371,"['Tacos', 'Cocktail Bars']",2.0,"1875 Union St, San Francisco, CA 94123",(415) 653-8981
+Papito Hayes,4.1,1062,['Mexican'],2.0,"425 Hayes St, Ste A, San Francisco, CA 94102",(415) 554-0541
+La Mar Cocina Peruana,3.9,4584,"['Latin American', 'Seafood', 'Peruvian']",3.0,"Pier 1 1/2 The Embarcadero, Ste 100, San Francisco, CA 94111",(415) 397-8880
+Taishan Cuisine,4.0,138,"['Noodles', 'Hot Pot', 'Cantonese']",2.0,"781 Broadway, San Francisco, CA 94133",(415) 788-2288
+The View Lounge,4.1,1984,"['Lounges', 'Cocktail Bars', 'Tapas/Small Plates']",2.0,"780 Mission St, San Francisco, CA 94103",(415) 896-1600
+Vixi,4.0,271,"['Italian', 'Pasta Shops', 'Pizza']",2.0,"3611 California St, San Francisco, CA 94118",(415) 842-4921
+Nara,4.5,568,"['Japanese', 'Sushi Bars', 'Bars']",2.0,"1515 Polk St, San Francisco, CA 94109",(415) 567-1515
+Hed 11,4.5,8,"['Thai', 'Breakfast & Brunch', 'Wine Tasting Room']",2.0,"1800 Sutter St, San Francisco, CA 94115",(415) 849-6809
+Sushi Goemon,4.4,380,"['Japanese', 'Sushi Bars']",2.0,"1524 Irving St, San Francisco, CA 94122",(415) 742-5137
+Cholita Linda,4.4,193,"['Latin American', 'Sandwiches', 'Tacos']",2.0,"1 Ferry Building, Ste 44, San Francisco, CA 94111",(415) 565-7424
+Ungrafted,4.3,188,"['New American', 'Wine Tasting Classes', 'Wine Bars']",3.0,"2419 3rd St, San Francisco, CA 94107",(415) 814-2129
+Chapeau,4.3,2909,['French'],3.0,"126 Clement St, San Francisco, CA 94118",(415) 750-9787
+Cordon Bleu,4.3,1189,"['Vietnamese', 'Kebab', 'Fast Food']",2.0,"1574 California St, San Francisco, CA 94109",(415) 673-5637
+Sunset Indian Cuisine,4.5,17,"['Himalayan/Nepalese', 'Indian', 'Vegan']",2.0,"642 Irving St, San Francisco, CA 94158",(415) 664-7225
+Ap’s Cafe,4.9,44,"['Cafes', 'Empanadas']",2.0,"4108 24th St, San Francisco, CA 94114",(415) 642-1316
+Ko,4.7,47,"['Ramen', 'Izakaya', 'Sushi Bars']",2.0,"2193 Mission St, San Francisco, CA 94110",(415) 796-3694
+House Of Pancakes,4.3,1224,"['Noodles', 'Taiwanese', 'Pancakes']",2.0,"937 Taraval St, San Francisco, CA 94116",(415) 681-8388
+Cocobang,3.8,1208,['Korean'],2.0,"550 Taylor St, San Francisco, CA 94102",(415) 292-5144
+Toyose,3.7,1760,"['Korean', 'Desserts', 'Breakfast & Brunch']",2.0,"3814 Noriega St, San Francisco, CA 94122",(415) 731-0232
+Foliage,4.2,328,['New American'],4.0,"300 Precita Ave, San Francisco, CA 94110",(415) 400-5997
+Alora,3.8,58,"['Mediterranean', 'Seafood', 'Cocktail Bars']",2.0,"Pier 3, Hornblower landing, San Francisco, CA 94111",(415) 738-6004
+Berliner Berliner,4.6,80,"['German', 'Burgers', 'Hot Dogs']",2.0,"545 Haight St, San Francisco, CA 94117",(415) 795-1457
+Trestle,4.4,1191,"['New American', 'Desserts']",3.0,"531 Jackson St, San Francisco, CA 94133",(415) 772-0922
+Ryoko's,3.9,3382,"['Sushi Bars', 'Japanese', 'Bars']",2.0,"619 Taylor St, San Francisco, CA 94102",(415) 775-1028
+True Laurel,4.2,391,"['Cocktail Bars', 'Breakfast & Brunch', 'American']",2.0,"753 Alabama St, San Francisco, CA 94110",(415) 341-0020
+House of Tadu Ethiopian Kitchen,4.4,453,['Ethiopian'],2.0,"1130 4th St, San Francisco, CA 94158",(415) 655-9344
+Marugame Udon,3.9,2475,"['Japanese', 'Noodles', 'Asian Fusion']",2.0,"3251 20th Ave, Space 184, San Francisco, CA 94132",(415) 680-1280
+Kibatsu,4.4,339,"['Sushi Bars', 'Japanese']",3.0,"400 Haight St, San Francisco, CA 94117",(415) 872-9636
+Kui Shin Bo,3.8,972,"['Japanese', 'Sushi Bars']",2.0,"22 Peace Plz, Fl 2, San Francisco, CA 94115",(415) 922-9575
+Loquat,4.4,184,"['Bakeries', 'Cafes', 'Desserts']",2.0,"198 Gough St, San Francisco, CA 94102",(415) 994-6594
+Nari,4.0,486,"['Thai', 'Wine Bars', 'Cocktail Bars']",3.0,"1625 Post St, San Francisco, CA 94115",(415) 868-6274
+Rosemary & Pine,4.1,192,['New American'],3.0,"55 Division St, San Francisco, CA 94103",(415) 800-7585
+Bursa,4.2,955,"['Middle Eastern', 'Turkish', 'Mediterranean']",2.0,"60 West Portal Ave, San Francisco, CA 94127",(415) 564-4006
+Sessions at the Presidio,3.7,748,"['New American', 'Beer, Wine & Spirits', 'Cocktail Bars']",2.0,"1 Letterman Dr, Bldg D, San Francisco, CA 94129",(415) 655-9413
+JJamPPong,4.7,511,"['Chinese', 'Korean', 'Seafood']",2.0,"5249 Mission St, San Francisco, CA 94112",(415) 347-7412
+Kokio Republic,4.6,44,"['Chicken Shop', 'Korean']",2.0,"711 Geary St, San Francisco, CA 94109",(415) 376-8394
+WenChang Dumpling Restaurant,4.6,139,"['Chinese', 'Noodles', 'Soup']",2.0,"1650 Balboa St, San Francisco, CA 94121",(415) 702-6156
+Plow,4.1,3267,"['Breakfast & Brunch', 'New American']",2.0,"1299 18th St, San Francisco, CA 94107",(415) 821-7569
+Limón,4.0,3570,"['Peruvian', 'Tapas/Small Plates']",3.0,"1001 S Van Ness Ave, San Francisco, CA 94110",(415) 821-2134
+Uncle Chen,4.6,7,['Chinese'],2.0,"704 Post St, San Francisco, CA 94109",(415) 527-8922
+Miller & Lux,4.2,344,"['American', 'Steakhouses', 'Seafood']",4.0,"700 Terry A Francois Blvd, San Francisco, CA 94158",(415) 872-6699
+Bandit Dolores,4.3,38,"['Breakfast & Brunch', 'Burgers', 'Sandwiches']",2.0,"499 Dolores St, San Francisco, CA 94110",(415) 529-1248
+What The Cluck - Haight,4.3,246,"['Thai', 'Chicken Shop', 'Chinese']",2.0,"1782 Haight St, San Francisco, CA 94117",(415) 702-6777
+Ar Har Ya,4.9,49,['Burmese'],2.0,"357 Kearny St, San Francisco, CA 94108",(628) 236-7477
+Purple Rice,4.2,288,"['Korean', 'Barbeque', 'Asian Fusion']",2.0,"509 Haight St, San Francisco, CA 94117",(415) 932-6257
+Chaska Restaurant,4.6,108,"['Indian', 'Pakistani', 'Halal']",2.0,"5120 Geary Blvd, San Francisco, CA 94118",(415) 742-4166
+Dosa Corner Indian Cuisine,4.3,80,"['Indian', 'Vegetarian']",2.0,"1499 Valencia St, San Francisco, CA 94110",(415) 400-4303
+Papa's Kitchen,4.4,85,"['Chinese', 'Noodles', 'Soup']",2.0,"1705 Haight St, San Francisco, CA 94117",(415) 742-4040
+The Palm Court at RH San Francisco,4.0,513,['American'],2.0,"590 20th St, San Francisco, CA 94107",(415) 865-0407
+Pancake Boy,4.1,1259,"['Breakfast & Brunch', 'Burgers']",2.0,"4007 24th St, San Francisco, CA 94114",(415) 647-7037
+Kantine,4.2,421,"['Scandinavian', 'Breakfast & Brunch']",2.0,"1906 Market St, San Francisco, CA 94102",(415) 735-7123
+Tony's Pizza Napoletana,4.2,7144,"['Pizza', 'Italian', 'Cocktail Bars']",2.0,"1570 Stockton St, San Francisco, CA 94133",(415) 835-9888
+Kayma,4.9,16,['African'],2.0,"945 Market St, Fl 2, San Francisco, CA 94103",(415) 847-7032
+Tataki,4.1,1467,"['Sushi Bars', 'Bars']",2.0,"2827 California St, San Francisco, CA 94115",(415) 931-1182
+Oishinbo Sushi,4.5,44,['Sushi Bars'],2.0,"202 Clement St, San Francisco, CA 94118",(628) 432-0764
+Za'atar,4.5,187,"['Mediterranean', 'Food Delivery Services', 'Caterers']",2.0,"1750 Cesar Chavez, Unit D, San Francisco, CA 94124",(415) 562-4030
+Supreme Crab Seafood Buffet,3.5,667,"['Cajun/Creole', 'Seafood', 'Buffets']",2.0,"245 Jefferson St, Fl 2, San Francisco, CA 94133",(415) 673-8888
+Catch French Bistro,4.4,5,"['Seafood', 'Breakfast & Brunch', 'Cocktail Bars']",2.0,"2362 Market St, San Francisco, CA 94114",(415) 431-5000
+YH-Beijing,4.4,352,['Chinese'],2.0,"500 Haight St, San Francisco, CA 94117",(415) 355-9125
+La Mediterranee,4.2,1745,"['Middle Eastern', 'Mediterranean', 'Armenian']",2.0,"2210 Fillmore St, San Francisco, CA 94115",(415) 921-2956
+Ayahuazka,4.2,17,"['Peruvian', 'Latin American', 'Breakfast & Brunch']",2.0,"2704 24th St, San Francisco, CA 94110",(510) 417-9816
+Izakaya Sozai,3.8,2182,"['Ramen', 'Izakaya', 'Noodles']",2.0,"1500 Irving St, San Francisco, CA 94122",(415) 371-9721
+The Anchovy Bar,4.2,254,['Seafood'],2.0,"1740 O'Farrell St, San Francisco, CA 94115",(415) 796-2710
+L'mida,4.0,107,"['Mediterranean', 'Moroccan']",3.0,"2359 Chestnut St, San Francisco, CA 94123",(415) 400-4686
+La Fusión,4.4,1215,"['Latin American', 'Comfort Food', 'Peruvian']",2.0,"475 Pine St, San Francisco, CA 94104",(415) 781-0894
+El Rancho Grande,3.8,488,['Mexican'],2.0,"855 Divisadero St, San Francisco, CA 94117",(415) 673-8226
+Umami Sushi,4.9,8,"['Sushi Bars', 'Japanese', 'Vegetarian']",2.0,"2512 Clement St, San Francisco, CA 94121",(415) 753-9617
+Funky Elephant,3.8,59,"['Thai', 'Wine Bars', 'Seafood']",2.0,"1270 Valencia St, San Francisco, CA 94110",(415) 400-5741
+Alex and Lynnie's Hawaiian Musubis,5.0,3,"['Hawaiian', 'Food Delivery Services']",2.0,"San Francisco, CA 95014",(669) 240-0875
+Bar Crudo,4.2,1955,['Seafood'],3.0,"655 Divisadero St, San Francisco, CA 94117",(415) 409-0679
+Nightbird,4.1,210,['New American'],4.0,"330 Gough St, San Francisco, CA 94102",(415) 829-7565
+K Soul Chicken,4.4,138,"['Korean', 'Chicken Wings', 'Beer Bar']",2.0,"1710 Polk St, San Francisco, CA 94109",(415) 796-3538
+Cielito Lindo,4.4,332,['Mexican'],2.0,"3450 Balboa St, San Francisco, CA 94121",(415) 742-0959
+High Treason,4.4,170,"['Wine Bars', 'American']",2.0,"443 Clement St, San Francisco, CA 94118",(415) 742-5256
+Piroo,4.5,49,"['Himalayan/Nepalese', 'Tapas/Small Plates', 'Bars']",2.0,"1101 Polk St, San Francisco, CA 94109",(415) 889-9154
+The Spice Jar,4.2,462,['Asian Fusion'],2.0,"2500 Bryant St, San Francisco, CA 94110",(415) 829-3668
+Merchant Roots,4.6,102,['New American'],4.0,"1365 Fillmore St, San Francisco, CA 94115",(530) 574-7365
+Fly Bar,3.9,780,"['American', 'Beer, Wine & Spirits']",2.0,"762 Divisadero St, San Francisco, CA 94117",(415) 780-1630
+The Little Chihuahua,3.9,1596,['Mexican'],2.0,"292 Divisadero St, San Francisco, CA 94117",(415) 255-8225
+Casements,4.5,101,"['Pubs', 'Irish', 'Beer Gardens']",2.0,"2351 Mission St, San Francisco, CA 94110",(415) 658-7320
+Dumpling Zone,4.6,142,['Dim Sum'],2.0,"408 Dewey Blvd, San Francisco, CA 94116",(415) 665-6888
+Aziza,4.2,2204,"['Moroccan', 'Wine Bars', 'Cocktail Bars']",3.0,"5800 Geary Blvd, San Francisco, CA 94121",(415) 682-4196
+Wilder,3.9,224,"['New American', 'Comfort Food', 'Breakfast & Brunch']",2.0,"3154 Fillmore St, San Francisco, CA 94123",(415) 741-6605
+Echigo Home Cook,4.6,42,"['Japanese', 'Sushi Bars']",2.0,"870 Valencia St, San Francisco, CA 94110",(415) 823-7593
+Jane on Fillmore,3.9,1188,"['Coffee & Tea', 'Bakeries', 'Breakfast & Brunch']",2.0,"2123 Fillmore St, San Francisco, CA 94115",(415) 931-5263
+Kazan,4.3,625,"['Japanese', 'Sushi Bars', 'Soup']",2.0,"2809 24th St, San Francisco, CA 94110",(415) 282-2001
+Himalayan Cuisine SF,4.8,131,"['Indian', 'Himalayan/Nepalese']",2.0,"1412 Polk St, San Francisco, CA 94109",(415) 359-1236
+Pye,4.7,34,"['Bakeries', 'Pop-Up Restaurants', 'Caterers']",2.0,"San Francisco, CA 94129",(415) 830-4660
+Underdogs Tres,4.0,2233,"['Sports Bars', 'Mexican']",2.0,"1224 9th Ave, San Francisco, CA 94122",(415) 566-8700
+Golden Crab House,4.3,406,"['Seafood', 'Vietnamese', 'Asian Fusion']",3.0,"1830 Irving St, San Francisco, CA 94122",(415) 702-6685
+Pink Onion,4.6,1004,"['Pizza', 'Italian', 'Gastropubs']",2.0,"64 14th St, San Francisco, CA 94103",(415) 529-2635
+Souvla,4.0,90,"['Greek', 'Mediterranean', 'Sandwiches']",2.0,"2505 3rd St, San Francisco, CA 94107",(415) 980-6800
+Shanghai Dumpling King,4.5,115,['Dim Sum'],2.0,"720 14th St, San Francisco, CA 94114",(415) 757-0439
+The Thonglor,4.3,458,"['Thai', 'Desserts', 'Soup']",2.0,"420 Geary St, San Francisco, CA 94102",(415) 346-3121
+Dinosaurs,4.2,991,"['Vietnamese', 'Sandwiches']",2.0,"2275 Market St, San Francisco, CA 94114",(415) 503-1421
+Il Casaro Pizzeria & Mozzarella Bar - North Beach,4.3,1828,"['Italian', 'Pizza']",2.0,"348 Columbus Ave, San Francisco, CA 94133",(415) 677-9455
+Villon,3.9,377,"['New American', 'Breakfast & Brunch', 'Bars']",2.0,"1100 Market St, San Francisco, CA 94102",(628) 895-2039
+Octavia,4.1,701,['New American'],3.0,"1701 Octavia St, San Francisco, CA 94109",(415) 408-7507
+Rintaro,4.2,973,['Izakaya'],3.0,"82 14th St, San Francisco, CA 94103",(415) 589-7022
+Banh Mi Viet,4.6,92,['Vietnamese'],1.0,"518 Divisadero St, San Francisco, CA 94117",(415) 865-0909
+Little Star Pizza - Divisadero ,4.4,3083,"['Pizza', 'Italian', 'Bars']",2.0,"846 Divisadero St, San Francisco, CA 94117",(415) 441-1118
+Square Pie Guys,4.3,878,"['Pizza', 'Chicken Wings', 'Salad']",2.0,"1077 Mission St, San Francisco, CA 94103",(415) 872-9290
+Bite,4.1,860,"['Delis', 'Sandwiches', 'Salad']",2.0,"912 Sutter St, San Francisco, CA 94104",(415) 563-2483
+The Sarap Shop,5.0,4,"['Comfort Food', 'Filipino']",2.0,"171 Stillman St, San Francisco, CA 94107",(415) 935-4785
+HK Lounge Bistro,4.3,153,['Dim Sum'],2.0,"1136 Folsom St, San Francisco, CA 94103",(415) 668-8802
+Homeroom,2.7,3,"['Food Delivery Services', 'American']",2.0,"741 Diamond St, San Francisco, CA 94114",(415) 942-8304
+Canela Bistro & Wine Bar,4.3,792,"['Spanish', 'Tapas Bars', 'Wine Bars']",3.0,"2272 Market St, San Francisco, CA 94114",(415) 552-3000
+Mensho Tokyo SF,4.1,2989,"['Ramen', 'Noodles']",2.0,"672 Geary St, San Francisco, CA 94102",(415) 800-8345
+Picaro,3.9,1974,"['Spanish', 'Basque', 'Tapas Bars']",2.0,"3120 16th St, San Francisco, CA 94103",(415) 431-4089
+Abu Salim Middle Eastern Grill,4.6,376,"['Halal', 'Falafel', 'Arabic']",2.0,"1599 Haight St, San Francisco, CA 94117",(415) 522-0122
+Fenikkusu,4.5,148,"['Japanese', 'Tapas/Small Plates']",2.0,"1009 Guerrero St, San Francisco, CA 94110",(415) 923-8600
+Board and Drink,4.8,40,"['Breakfast & Brunch', 'New American', 'Coffee & Tea']",2.0,"1329 Columbus Ave, San Francisco, CA 94109",(415) 658-7628
+Nippon Curry featuring Hinoya Curry,4.5,343,['Japanese Curry'],2.0,"3347 Fillmore St, San Francisco, CA 94123",(415) 660-5170
+Curio,4.1,270,"['Bars', 'New American']",2.0,"775 Valencia St, San Francisco, CA 94110",(415) 551-7306
+Reem’s,4.2,216,"['Bakeries', 'Arabic', 'Coffee & Tea']",2.0,"2901 Mission St, San Francisco, CA 94110",(415) 780-1953
+Yamo,3.8,2143,['Burmese'],1.0,"3406 18th St, San Francisco, CA 94110",(415) 553-8911
+Street Taco,4.2,731,['Mexican'],2.0,"1607 Haight St, San Francisco, CA 94117",(415) 525-4435
+Takara Sushi,3.8,342,"['Sushi Bars', 'Japanese']",2.0,"4243 18th St, San Francisco, CA 94114",(415) 626-7864
+Taboun,4.0,328,"['Middle Eastern', 'Mediterranean']",2.0,"203 Parnassus Ave, San Francisco, CA 94117",(415) 566-9696
+Hakashi Japanese Sushi Bar & Grill,4.3,555,"['Sushi Bars', 'Japanese']",2.0,"474 3rd St, San Francisco, CA 94107",(415) 872-9589
+Hayz Dog,4.5,63,['Hot Dogs'],2.0,"364 Hayes St, San Francisco, CA 94102",(415) 655-9089
+The House of Hummus,4.6,156,"['Middle Eastern', 'Falafel', 'Arabic']",2.0,"5 Masonic Ave, San Francisco, CA 94118",(415) 374-7803
+Piccolo Forno,4.6,947,"['Pizza', 'Italian']",2.0,"725 Columbus Ave, San Francisco, CA 94133",(415) 757-0087
+Union Larder,4.3,197,"['Wine Bars', 'New American', 'Tapas Bars']",2.0,"1945 Hyde St, San Francisco, CA 94109",(415) 323-4845
+The Crafty Fox Ale House,4.3,288,"['Beer Bar', 'Burgers', 'New American']",2.0,"1700 Mission St, San Francisco, CA 94103",(415) 416-6602
+The Harlequin,4.0,95,"['Cocktail Bars', 'Venues & Event Spaces', 'New American']",3.0,"68 4th St, San Francisco, CA 94103",(415) 488-5950
+Boochmania,5.0,50,"['Kombucha', 'Mediterranean', 'Fast Food']",2.0,"685 Harrison St, San Francisco, CA 94107",(415) 800-7527
+Hed verythai,4.4,315,['Thai'],2.0,"88 Hardie Pl, San Francisco, CA 94108",(415) 796-3944
+B on the Go,4.1,242,"['Cafes', 'Sandwiches']",2.0,"2794 California St, San Francisco, CA 94115",(415) 589-7112
+Habibi Falafel,4.6,55,"['Falafel', 'Kebab', 'Halal']",2.0,"1734 Divisadero St, San Francisco, CA 94115",(415) 449-4040
+The Holbrook House,4.5,133,"['Cocktail Bars', 'Breakfast & Brunch', 'American']",2.0,"1 Sansome St, San Francisco, CA 94104",(415) 515-6444
+Tanguito,4.3,675,"['Argentine', 'Burgers', 'Empanadas']",2.0,"2850 Jones St, San Francisco, CA 94133",(415) 577-4223
+The Cheese School of San Francisco,4.6,221,['Cafes'],2.0,"2535 3rd St, San Francisco, CA 94107",(415) 346-7530
+Que Viet Vietnamese Grill & Pho,4.6,85,"['Vietnamese', 'Asian Fusion', 'Noodles']",2.0,"570 4th St, San Francisco, CA 94107",(415) 385-6167
+Yum Dragon SF,4.9,15,"['Food Court', 'Szechuan']",2.0,"380 Bush St, Ste 2, San Francisco, CA 94104",(415) 988-5613
+Gai Chicken Rice,4.2,375,"['Thai', 'Vietnamese', 'Singaporean']",2.0,"3463 16th St, San Francisco, CA 94114",(415) 535-0451
+New Thai Elephant,4.4,377,['Thai'],2.0,"393 Bay St, San Francisco, CA 94133",(415) 818-8999
+Dumpling Specialist,4.4,278,"['Dim Sum', 'Shanghainese', 'Taiwanese']",2.0,"1119-1123 Taraval, San Francisco, CA 94116",(415) 640-1403
+Halal Dastarkhan,4.3,311,"['Uzbek', 'Kebab', 'Halal']",2.0,"1098 Sutter St, San Francisco, CA 94109",(415) 525-3378
+Aria Korean Street Food,3.9,1203,"['Korean', 'Chicken Shop', 'Tacos']",2.0,"932 Larkin St, San Francisco, CA 94109",(415) 292-6914
+Grubstake Diner,3.5,1206,"['Burgers', 'Diners', 'American']",2.0,"1525 Pine St, San Francisco, CA 94109",(415) 228-8420
+Chloe's Cafe,4.1,1067,"['Breakfast & Brunch', 'Cafes']",2.0,"1399 Church St, San Francisco, CA 94114",(415) 648-4116
+La Mediterranee,3.9,672,"['Mediterranean', 'Middle Eastern', 'Caterers']",2.0,"288 Noe St, San Francisco, CA 94114",(415) 431-7210
+Lucho's,4.7,521,"['Breakfast & Brunch', 'New American']",2.0,"2675 Ocean Ave, San Francisco, CA 94132",(415) 347-7416
+SAJJ Mediterranean,3.9,192,"['Mediterranean', 'Halal', 'Middle Eastern']",2.0,"636 2nd St, San Francisco, CA 94107",(415) 658-7577
+Trattoria da Vittorio - San Francisco,4.3,997,"['Italian', 'Pizza']",2.0,"150 W Portal Ave, San Francisco, CA 94127",(415) 742-0300
+Waraku,3.8,1066,"['Ramen', 'Noodles', 'Izakaya']",2.0,"1638 Post St, San Francisco, CA 94115",(415) 292-3388
+Jasmine Garden,4.1,731,['Vietnamese'],2.0,"708 14th St, San Francisco, CA 94114",(415) 861-2682
+Back to Back,4.4,129,"['Pizza', 'Wine Bars', 'Cocktail Bars']",3.0,"1257 Taylor St, San Francisco, CA 94108",(415) 795-3403
+Buffalo Wild Wings,4.0,1,"['Chicken Wings', 'Sports Bars', 'American']",2.0,"90-92 Charter Oak Ave, San Francisco, CA 94124",(415) 869-7080
+Frank Grizzly’s,4.7,86,['Tacos'],2.0,"5698 3rd St, San Francisco, CA 94124",(415) 605-9991
+Monsieur Benjamin,3.9,1132,"['French', 'Bars', 'Seafood']",3.0,"451 Gough St, San Francisco, CA 94102",(415) 403-2233
+JT Restaurant,4.5,67,['Filipino'],1.0,"953 Mission St, San Francisco, CA 94103",(415) 571-5108
+Sababa,4.3,416,"['Mediterranean', 'Middle Eastern', 'Greek']",2.0,"329 Kearny St, San Francisco, CA 94108",(415) 800-6853
+Orphan Andy's,3.5,1086,"['Diners', 'American', 'Breakfast & Brunch']",2.0,"3991 17th St, Ste A, San Francisco, CA 94114",(415) 864-9795
+Equator Round House,4.0,100,"['Coffee & Tea', 'Cafes']",2.0,"Golden Gate Bridge Plz, San Francisco, CA 94129",(415) 603-0366
+Eight Tables by George Chen,4.3,218,['Chinese'],4.0,"8 Kenneth Rexroth Pl, San Francisco, CA 94133",(415) 788-8788
+Burma Love - Downtown,4.2,513,"['Burmese', 'Cocktail Bars', 'Seafood']",2.0,"8 Mint Plz, San Francisco, CA 94103",(415) 764-4965
+Eiji,4.0,1167,"['Sushi Bars', 'Japanese']",2.0,"317 Sanchez St, San Francisco, CA 94114",(415) 558-8149
+Lazy Bear,4.5,813,['New American'],4.0,"3416 19th St, San Francisco, CA 94110",(415) 874-9921
+Roam Artisan Burgers,4.0,1406,['Burgers'],2.0,"1923 Fillmore St, San Francisco, CA 94115",(415) 800-7801
+Pho Huong Viet,4.4,348,['Vietnamese'],2.0,"5733 Geary Blvd, San Francisco, CA 94121",(415) 702-6177
+El Techo,3.9,2780,"['Latin American', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"2516 Mission St, San Francisco, CA 94110",(415) 550-6970
+Ballast Point - San Francisco,4.2,72,"['Breweries', 'Venues & Event Spaces', 'New American']",2.0,"705 16th St, San Francisco, CA 94158",(628) 400-5763
+LaoTable,4.0,1573,"['Laotian', 'Thai']",2.0,"149 2nd St, San Francisco, CA 94105",(415) 278-9991
+Mr East Kitchen,4.5,699,"['Breakfast & Brunch', 'Bubble Tea', 'Thai']",2.0,"276 Fifth St, San Francisco, CA 94103",(415) 658-7335
+Tad’s Steak House,4.1,210,"['American', 'Steakhouses', 'Breakfast & Brunch']",2.0,"38 Ellis St, San Francisco, CA 94102",(415) 956-2139
+Chicken Dog Bagels,4.5,33,"['Bagels', 'Salad', 'Sandwiches']",2.0,"237 Cortland Ave, San Francisco, CA 94110",(415) 939-7367
+Moya,4.2,431,"['Ethiopian', 'Vegan', 'Vegetarian']",2.0,"121 9th St, San Francisco, CA 94103",(415) 431-5544
+Palmyra,4.2,1011,"['Mediterranean', 'Middle Eastern', 'Syrian']",1.0,"700 Haight St, San Francisco, CA 94117",(415) 896-4172
+Eagle Cafe,4.1,323,"['New American', 'Seafood']",2.0,"The Embarcadero, Bldg A, Level 2, San Francisco, CA 94133",(415) 862-2500
+Villa Taverna,4.5,17,['Italian'],4.0,"27 Hotaling Pl, San Francisco, CA 94111",(415) 981-2333
+Art's Cafe,4.3,1264,"['Diners', 'Breakfast & Brunch', 'Korean']",2.0,"747 Irving St, San Francisco, CA 94122",(415) 665-7440
+Arbor,3.9,122,"['Burgers', 'Sandwiches']",2.0,"384 Hayes St, San Francisco, CA 94102",(415) 626-1211
+Saigon BBQ Noodle House,4.6,298,"['Vietnamese', 'Noodles']",2.0,"1936 Irving St, San Francisco, CA 94122",(415) 941-7970
+il Cilentano,4.4,271,"['Italian', 'Bars']",2.0,"579 Columbus Ave, San Francisco, CA 94133",(415) 894-7689
+The Social Study,4.2,536,"['Wine Bars', 'Cafes']",2.0,"1795 Geary Blvd, San Francisco, CA 94115",(415) 292-7417
+Ly's Vietnamese Cuisine,4.3,606,['Vietnamese'],2.0,"1779 Lombard St, San Francisco, CA 94123",(415) 563-1927
+The Bird,4.2,2381,"['Chicken Shop', 'Sandwiches']",2.0,"115 New Montgomery St, San Francisco, CA 94105",(415) 872-9825
+Kokkari Estiatorio,4.4,5250,"['Greek', 'Mediterranean']",3.0,"200 Jackson St, San Francisco, CA 94111",(415) 981-0983
+Diamond Cafe,4.2,182,"['Cafes', 'Breakfast & Brunch', 'Creperies']",2.0,"751 Diamond St, San Francisco, CA 94114",(415) 655-3674
+Trick Dog,4.1,947,"['Cocktail Bars', 'American']",2.0,"3010 20th St, San Francisco, CA 94110",(415) 471-2999
+The Progress,4.1,1129,"['New American', 'Cocktail Bars']",4.0,"1525 Fillmore St, San Francisco, CA 94115",(415) 673-1294
+Tommaso Ristorante Italiano,4.3,1808,"['Italian', 'Pizza']",2.0,"1042 Kearny St, San Francisco, CA 94133",(415) 398-9696
+Dumpling Time,4.2,2707,"['Dim Sum', 'Asian Fusion']",2.0,"11 Division St, San Francisco, CA 94103",(415) 525-4797
+Uncle Boy's,3.9,778,"['Burgers', 'Fast Food']",2.0,"245 Balboa St, San Francisco, CA 94118",(415) 742-4468
+Nomu Skewers,4.4,96,"['Izakaya', 'Sushi Bars']",2.0,"580 Bush St, Ste 101, San Francisco, CA 94108",(415) 374-7753
+Jane The Bakery,4.3,699,"['Bakeries', 'Coffee & Tea', 'Breakfast & Brunch']",2.0,"1881 Geary Blvd, San Francisco, CA 94115",(415) 658-7971
+Akiko's Restaurant,4.0,2018,"['Sushi Bars', 'Japanese']",4.0,"430 Folsom St, San Francisco, CA 94105",(415) 397-3218
+Mastro's Steakhouse,3.8,775,['Steakhouses'],4.0,"399 Geary St, San Francisco, CA 94102",(415) 363-9539
+Gary Danko,4.5,5933,"['New American', 'French', 'Wine Bars']",4.0,"800 N Point St, San Francisco, CA 94109",(415) 749-2060
+The Front Porch,3.9,3242,"['Southern', 'Cajun/Creole', 'American']",2.0,"65 29th St, Ste A, San Francisco, CA 94110",(415) 695-7800
+Odetokyo,4.2,12,"['Sushi Bars', 'Cocktail Bars', 'Japanese']",2.0,"431 Tehama St, Fl 2, San Francisco, CA 94103",(415) 261-5974
+Town's End Brunch,4.3,111,"['Breakfast & Brunch', 'Burgers', 'American']",2.0,"2 Townsend St, San Francisco, CA 94107",(415) 875-9984
+ChiliCali,4.9,25,"['Pop-Up Restaurants', 'Caterers', 'Indonesian']",2.0,"1566 Carroll Ave, San Francisco, CA 94124",(707) 504-8126
+Ashyan's Lu Ruo Fan,4.8,30,"['Taiwanese', 'Food Delivery Services']",2.0,"San Francisco, CA",(561) 212-7559
+House of Prime Rib,4.2,9165,"['American', 'Steakhouses', 'Wine Bars']",3.0,"1906 Van Ness Ave, San Francisco, CA 94109",(415) 885-4605
+Izakaya Mayumi,4.6,121,['Izakaya'],2.0,"2221 Clement St, San Francisco, CA 94121",(415) 742-4159
+Atelier Crenn,4.3,897,['French'],4.0,"3127 Fillmore St, San Francisco, CA 94123",(415) 440-0460
+Fuwa Dumpling 福娃餃子,4.7,35,"['Chinese', 'Noodles', 'Soup']",2.0,"3608 Balboa St, San Francisco, CA 94121",(415) 665-6688
+Khamsa,4.1,330,['Moroccan'],2.0,"1503 15th St, San Francisco, CA 94103",(415) 316-9458
+Il Pollaio,4.3,430,"['Italian', 'Argentine']",2.0,"555 Columbus Ave, San Francisco, CA 94133",(415) 362-7727
+Via Veneto,4.1,327,['Italian'],2.0,"2244 Fillmore St, San Francisco, CA 94115",(415) 346-9211
+Golden Boy Pizza,4.4,4409,"['Pizza', 'Italian']",1.0,"542 Green St, San Francisco, CA 94133",(415) 982-9738
+Elephant Sushi,4.2,183,"['Sushi Bars', 'Cocktail Bars']",2.0,"400 Grove St, Ste C1, San Francisco, CA 94102",(415) 400-4018
+Mesopotamia Kitchen,4.2,116,"['Mediterranean', 'Kebab', 'Halal']",2.0,"3915 24th St, San Francisco, CA 94114",(415) 923-8545
+HINODEYA Ramen Union Square,4.2,283,"['Ramen', 'Noodles', 'Breakfast & Brunch']",2.0,"219 O'Farrell St, San Francisco, CA 94102",(415) 740-1484
+Saru Sushi Bar,4.3,996,"['Sushi Bars', 'Japanese', 'Seafood']",4.0,"3856 24th St, San Francisco, CA 94114",(415) 400-4510
+Cafe Mystique,3.7,707,"['Mediterranean', 'Breakfast & Brunch', 'Burgers']",2.0,"464 Castro St, San Francisco, CA 94114",(415) 865-9963
+Grumpy Cafe,4.3,39,"['Japanese', 'Korean', 'American']",1.0,"66 Dorman Ave, San Francisco, CA 94124",(415) 285-2461
+Ginza Sushi & Sake,4.2,626,"['Sushi Bars', 'Japanese', 'Salad']",2.0,"1793 Haight St, San Francisco, CA 94117",(415) 742-0552
+Fiorella -Polk,3.9,311,"['Pizza', 'Italian']",2.0,"2238 Polk St, San Francisco, CA 94109",(415) 829-7097
+Blue Barn,3.8,23,"['Salad', 'Sandwiches', 'Soup']",2.0,"901 Cole St, San Francisco, CA 94117",(415) 742-5505
+The Chieftain Irish Pub & Restaurant,4.0,916,"['Sports Bars', 'Burgers', 'Irish Pub']",2.0,"198 5th St, San Francisco, CA 94103",(415) 615-0916
+Dunya Bistro,4.0,694,"['Mediterranean', 'Wine Bars', 'Greek']",2.0,"1609 Polk St, San Francisco, CA 94109",(415) 400-5770
+Elena,5.0,57,['Mediterranean'],2.0,"347 Columbus Ave, San Francisco, CA 94133",(415) 757-0059
+Square Pie Guys,4.0,238,"['Pizza', 'Beer Bar', 'Chicken Wings']",2.0,"845 Beach St, San Francisco, CA 94109",(415) 890-2335
+Bar Sprezzatura,4.1,221,"['Bars', 'Italian']",3.0,"300 Clay St, Ste 100, One Maritime Plaza, San Francisco, CA 94111",(628) 466-0230
+Pac Heights Deli,5.0,8,"['Delis', 'Sandwiches', 'Breakfast & Brunch']",2.0,"2411 California St, San Francisco, CA 94115",(415) 400-4017
+Ramenwell,4.1,461,"['Ramen', 'Izakaya', 'Hawaiian']",2.0,"3378 18th St, San Francisco, CA 94110",(415) 589-7680
+Beyond Cafe,4.4,196,"['Chinese', 'Hong Kong Style Cafe', 'Noodles']",2.0,"1010 Bryant St, San Francisco, CA 94103",(415) 565-7395
+Donaji ,4.6,162,"['Caterers', 'Mexican']",2.0,"3161 24th St, San Francisco, CA 94110",(415) 829-3569
+Dragon Horse,4.4,155,"['Cocktail Bars', 'Izakaya', 'Sushi Bars']",2.0,"917 Folsom St, San Francisco, CA 94107",(415) 913-9890
+Sohunan,4.6,105,['Chinese'],2.0,"674 Sacramento St, San Francisco, CA 94111",(415) 795-3607
+Fairuz Eatery,4.8,17,['Middle Eastern'],2.0,"519 Columbus Ave, San Francisco, CA 94133",(415) 655-9151
+Gott's Roadside,4.0,148,"['Burgers', 'American']",2.0,"151 Warriors Way, Ste 102, San Francisco, CA 94158",(415) 815-2992
+Sociale,3.9,737,"['Italian', 'Venues & Event Spaces', 'Wine Bars']",3.0,"3665 Sacramento St, San Francisco, CA 94118",(415) 921-3200
+Souvla,4.0,556,"['Greek', 'Mediterranean']",2.0,"758 Valencia St, San Francisco, CA 94110",(415) 870-3600
+Breakfast at Tiffany's,4.0,1159,"['Diners', 'Breakfast & Brunch', 'American']",2.0,"2499 San Bruno Ave, San Francisco, CA 94134",(415) 468-8805
+Wooly Pig,4.5,862,"['Sandwiches', 'Coffee & Tea', 'Asian Fusion']",2.0,"2295 3rd St, San Francisco, CA 94107",(415) 592-8015
+Sasa Japanese restaurant,4.3,607,"['Japanese', 'Sushi Bars']",3.0,"22 Peace Plz, Ste 530, San Francisco, CA 94115",(628) 600-6945
+Khob Khun Thai Cuisine & Breakfast,4.6,269,"['Breakfast & Brunch', 'Thai', 'Salad']",2.0,"3741 Geary Blvd, San Francisco, CA 94118",(415) 379-4382
+La Oaxaqueña,3.9,586,['Mexican'],1.0,"2128 Mission St, San Francisco, CA 94110",(415) 621-5446
+Steam Rice Roll King,3.7,31,"['Chinese', 'Coffee & Tea', 'Seafood']",2.0,"2228 Irving St, San Francisco, CA 94122",(415) 571-8739
+Chic n' Time,4.8,298,"['Noodles', 'Vietnamese', 'Chinese']",2.0,"807 Valencia St, San Francisco, CA 94110",(415) 874-9757
+Boho Restaurant,4.5,355,"['New American', 'Modern European', 'Seafood']",2.0,"3321 Steiner St, San Francisco, CA 94123",(415) 374-7518
+Macho Tacos,4.4,7,"['Tacos', 'Food Delivery Services', 'Caterers']",2.0,"1760 Cesar Chavez St, Ste L, San Francisco, CA 94124",(415) 670-0428
+Il Parco,2.5,87,"['Cafes', 'Pizza', 'Bars']",2.0,"215 Lincoln Blvd, San Francisco, CA 94129",(415) 400-4165
+Buster's Cheesesteak,4.0,936,"['American', 'Cheesesteaks', 'Sandwiches']",2.0,"366 Columbus Ave, San Francisco, CA 94133",(415) 392-2800
+Mixto Latin Cuisine,4.6,100,"['Peruvian', 'Latin American', 'Breakfast & Brunch']",2.0,"3914 Judah St, San Francisco, CA 94122",(628) 432-0401
+Lahore di khushboo ,4.6,36,"['Food Trucks', 'Halal', 'Pakistani']",2.0,"210 Lincoln Blvd, San Francisco, CA 94129",(415) 734-1340
+Macondray,4.3,186,"['Cocktail Bars', 'American']",2.0,"2209 Polk St, San Francisco, CA 94109",(415) 829-3464
+Ocean Indian Cuisine,4.8,480,"['Indian', 'Himalayan/Nepalese']",2.0,"6127 Geary Blvd, San Francisco, CA 94121",(415) 751-4433
+Lomo Libre Cantina,4.3,131,"['Peruvian', 'Latin American']",2.0,"1824 Irving St, San Francisco, CA 94122",(415) 571-8403
+Marcello's Pizza,3.8,798,"['Pizza', 'Salad', 'Hot Dogs']",1.0,"420 Castro St, San Francisco, CA 94114",(415) 863-3900
+Muguboka Restaurant,4.1,897,"['Korean', 'Salad', 'Seafood']",2.0,"401 Balboa St, San Francisco, CA 94118",(415) 668-6007
+Cracked & Battered - Potrero Hill,4.4,1390,"['Breakfast & Brunch', 'Halal', 'New American']",2.0,"1434 18th St, San Francisco, CA 94107",(415) 926-8645
+Yasijang,4.9,10,"['Korean', 'Tapas/Small Plates', 'Sushi Bars']",2.0,"800 Van Ness Ave, San Francisco, CA 94109",(415) 875-9783
+Dumpling Union,4.1,61,['Dim Sum'],2.0,"598 Haight St, San Francisco, CA 94117",(415) 529-1226
+Delarosa Downtown,3.9,1748,"['Pizza', 'Italian', 'Cocktail Bars']",2.0,"37 Yerba Buena Ln, San Francisco, CA 94103",(415) 872-7363
+Voodoo Love,4.1,368,['Cajun/Creole'],2.0,"56 Belden Pl, San Francisco, CA 94104",(415) 516-9243
+Aquitaine,4.1,372,"['Wine Bars', 'French']",2.0,"216 Church St, San Francisco, CA 94114",(415) 658-7863
+Xian Bistro,4.2,30,['Chinese'],2.0,"2543 Noriega St, San Francisco, CA 94122",(628) 270-0966
+Mochica,4.1,801,"['Peruvian', 'Cocktail Bars', 'Breakfast & Brunch']",2.0,"1469 18th St, San Francisco, CA 94107",(415) 278-0480
+Chouquet's,3.4,745,"['French', 'Coffee & Tea', 'Bars']",2.0,"2500 Washington St, San Francisco, CA 94115",(415) 359-0075
+Breakfast Little,4.7,520,"['Coffee & Tea', 'Breakfast & Brunch', 'Cafes']",2.0,"3275 22nd St, San Francisco, CA 94110",(415) 619-8686
+Blackwood,4.2,2148,"['Thai', 'Breakfast & Brunch', 'Asian Fusion']",2.0,"2150 Chestnut St, San Francisco, CA 94123",(415) 931-9663
+Saru Handroll Bar,4.3,152,"['Sushi Bars', 'Japanese', 'Seafood']",3.0,"2206 Polk St, San Francisco, CA 94109",(415) 875-9798
+707 Sutter,3.9,954,['Korean'],2.0,"707 Sutter St, San Francisco, CA 94109",(415) 346-7979
+Yoma Cafe,4.6,155,"['Bubble Tea', 'Japanese Curry', 'Sushi Bars']",1.0,"1518 Irving St, San Francisco, CA 94122",(415) 742-4360
+Aaha Indian Cuisine,4.6,159,['Indian'],2.0,"3316 17th St, San Francisco, CA 94110",(415) 814-2049
+Dumpling Kitchen,4.7,34,"['Noodles', 'Dim Sum']",2.0,"3913 24th St, San Francisco, CA 94114",(415) 282-4969
+Doppio Zero San Francisco,3.9,623,"['Pizza', 'Italian']",2.0,"395 Hayes St, San Francisco, CA 94102",(415) 624-3634
+Dumpling Bites,4.2,59,"['Noodles', 'Soup', 'Chinese']",2.0,"1556 Noriega St, San Francisco, CA 94122",(415) 223-1888
+Old Skool Cafe,4.6,645,"['Soul Food', 'American']",2.0,"1429 Mendell St, San Francisco, CA 94124",(415) 822-8531
+Sancha Sushi,4.6,68,"['Sushi Bars', 'Japanese']",2.0,"253 Church St, San Francisco, CA 94114",(415) 874-9335
+Barrio Ghirardelli Square,3.9,208,"['Mexican', 'Cocktail Bars']",2.0,"900 North Point, San Francisco, CA 94109",(415) 741-2000
+Californios,4.6,417,['Mexican'],4.0,"355 11th St, San Francisco, CA 94103",(415) 757-0994
+Serafina,4.6,140,['Italian'],3.0,"1701 Jones St, San Francisco, CA 94109",(415) 874-1936
+Tuba,4.3,1190,"['Mediterranean', 'Wine Bars', 'Greek']",2.0,"1007 Guerrero St, San Francisco, CA 94110",(415) 826-8822
+Son & Garden,4.2,1488,"['Breakfast & Brunch', 'New American', 'Cocktail Bars']",2.0,"700 Polk St, San Francisco, CA 94109",(415) 913-7404
+Ping Yang Thai Grill & Dessert,4.3,213,"['Thai', 'Desserts']",2.0,"955 Larkin St, San Francisco, CA 94109",(415) 792-6899
+Momo Noodle - Saluhall,4.2,141,"['Noodles', 'Food Trucks', 'Szechuan']",2.0,"945 Market St, San Francisco, CA 94103",(408) 800-6819
+Newkirk's,4.7,188,['Sandwiches'],2.0,"1002 Potrero Ave, San Francisco, CA 94110",(415) 962-7695
+Tonton Restaurant,4.2,171,"['Ramen', 'Japanese Curry']",2.0,"422 Geary St, San Francisco, CA 94102",(415) 874-9664
+Mini Potstickers,4.7,20,['Chinese'],2.0,"1639 Polk St, San Francisco, CA 94109",(415) 796-3071
+Montecristo Restaurant 2,4.4,53,['Salvadoran'],2.0,"3723 Mission St, San Francisco, CA 94110",(415) 641-6272
+Peaches Patties,4.5,174,['Caribbean'],2.0,"1 Ferry Building, Ste 50, San Francisco, CA 94111",(415) 562-7589
+Sweet Lime Thai Cuisine,4.0,610,['Thai'],2.0,"2100 Sutter St, San Francisco, CA 94115",(415) 674-7515
+Super Duper Burgers,4.0,1447,"['Burgers', 'American']",2.0,"2304 Market St, San Francisco, CA 94114",(415) 558-8123
+Gentilly,4.3,293,"['Southern', 'New American', 'Cajun/Creole']",2.0,"4826 Mission St, San Francisco, CA 94112",(415) 859-5633
+Colombians Food Factory,4.2,6,"['Colombian', 'Food Trucks']",2.0,"1233 Folsom St, San Francisco, CA 94103",(415) 465-9063
+Souvla,4.0,225,"['Greek', 'Mediterranean']",2.0,"2272 Chestnut St, San Francisco, CA 94123",(415) 680-9400
+Hot Zushi,4.6,196,"['Japanese', 'Sushi Bars']",2.0,"531 Haight St, San Francisco, CA 94117",(415) 863-8638
+Hi Tops,3.8,468,"['Sports Bars', 'New American', 'Gay Bars']",2.0,"2247 Market St, San Francisco, CA 94114",(415) 551-2500
+Farm : Table,4.0,1859,"['Coffee & Tea', 'Breakfast & Brunch']",2.0,"754 Post St, San Francisco, CA 94109",(415) 300-5652
+Home Plate,3.9,1615,['Breakfast & Brunch'],2.0,"2150 Lombard St, San Francisco, CA 94123",(415) 922-4663
+Gery’s Deli Cafe,5.0,9,"['Coffee & Tea', 'Peruvian', 'Sandwiches']",2.0,"200 6th Ave, San Francisco, CA 94118",(415) 702-6333
+Eat Americana,4.5,351,"['American', 'Breakfast & Brunch', 'Sandwiches']",2.0,"3532 Balboa St, San Francisco, CA 94121",(415) 387-2893
+Tiny Sushi - Oh Baby,4.8,422,"['Sushi Bars', 'Japanese', 'Vegetarian']",2.0,"32 Park Plaza Dr, Daly City, CA 94015",(650) 755-2288
+Local Tap,4.2,268,"['Sports Bars', 'American', 'Sandwiches']",2.0,"600 3rd St, San Francisco, CA 94107",(415) 814-2257
+BAOZ,4.4,105,"['Asian Fusion', 'Comfort Food']",2.0,"1750 Cesar Chavez, Unit D, San Francisco, CA 94124",(415) 992-8280
+Umi,4.0,644,"['Japanese', 'Sushi Bars']",2.0,"1328 18th St, San Francisco, CA 94107",(415) 355-1328
+The Halal Guys,3.4,961,"['Halal', 'Middle Eastern', 'Mediterranean']",2.0,"336 O'Farrell St, San Francisco, CA 94102",(415) 549-3454
+Astra,3.9,14,['American'],2.0,"125 Third St, San Francisco, CA 94105",(415) 284-4188
+El Mil Amores Restaurant,4.8,133,"['Breakfast & Brunch', 'Mexican', 'Burgers']",2.0,"2780 21st, San Francisco, CA 94110",(415) 866-4121
+Uva Enoteca,3.9,998,"['Italian', 'Pizza']",2.0,"568 Haight St, San Francisco, CA 94117",(415) 829-2024
+Cafe RX,4.3,145,"['Breakfast & Brunch', 'Sandwiches', 'Cafes']",2.0,"1013 Torney Ave, Thoreau Center in the Presidio, San Francisco, CA 94129",(415) 561-2273
+Mini Potstickers,4.1,120,['Chinese'],2.0,"2045 Irving St, San Francisco, CA 94122",(415) 742-4681
+Arizmendi Bakery,4.5,2269,"['Bakeries', 'Pizza']",1.0,"1331 9th Ave, San Francisco, CA 94122",(415) 566-3117
+Nute's,4.3,367,"['Thai', 'Noodles', 'Ramen']",2.0,"903 Cortland Ave, San Francisco, CA 94110",(415) 260-0192
+Thriller Social Club,4.3,202,"['Bars', 'Arcades', 'New American']",2.0,"508 4th St, San Francisco, CA 94107",(415) 706-6568
+Loltún Restaurant,4.3,22,['Mexican'],2.0,"2471 Mission St, San Francisco, CA 94110",(415) 817-1286
+"La Boulangerie de San Francisco, Pine",4.3,845,"['Bakeries', 'Coffee & Tea', 'Breakfast & Brunch']",1.0,"2325 Pine St, San Francisco, CA 94115",(415) 440-0356
+Hot Sauce and Panko,4.4,1349,"['Chicken Wings', 'Waffles', 'Sandwiches']",2.0,"1468 Hyde St, San Francisco, CA 94109",(415) 359-1908
+DragonEats,4.3,479,['Vietnamese'],1.0,"555 Folsom St, San Francisco, CA 94105",(415) 795-1169
+Brioche Bakery & Cafe,4.0,152,"['Breakfast & Brunch', 'French', 'Wine Bars']",2.0,"1640 Haight St, San Francisco, CA 94117",(415) 913-7940
+Q's Sandwich Shop,4.8,71,"['Sandwiches', 'Salad', 'Soup']",2.0,"258 Divisadero St, San Francisco, CA 94117",(415) 757-0112
+Wolfes Lunch,4.0,142,"['Japanese', 'Korean', 'American']",1.0,"1220 16th St, San Francisco, CA 94107",(415) 621-3684
+Sumac,4.7,285,"['Mediterranean', 'Wraps', 'Comfort Food']",2.0,"1096 Union St, San Francisco, CA 94133",(415) 307-6141
+Salmon Bar Sushi and Grill,4.7,127,"['Seafood', 'Japanese', 'Wine Bars']",2.0,"3214 16th St, San Francisco, CA 94103",(628) 213-4221
+The Kezar Pub,3.8,769,"['Pubs', 'Sports Bars', 'American']",2.0,"770 Stanyan St, San Francisco, CA 94117",(415) 386-9292
+Wabi-Sabi SF At Soma,4.7,211,"['Japanese', 'Sushi Bars']",2.0,"246 Ritch St, Unit 101, San Francisco, CA 94107",(415) 400-4172
+Bouche,4.3,933,['French'],3.0,"603 Bush St, San Francisco, CA 94108",(415) 956-0396
+Wen’s Kitchen,4.2,29,['Szechuan'],2.0,"1150 Polk St, San Francisco, CA 94109",(415) 771-6888
+Pork Store Cafe,4.0,1456,"['Breakfast & Brunch', 'Coffee & Tea', 'New American']",2.0,"1451 Haight St, San Francisco, CA 94117",(415) 864-6981
+Castro Tarts,4.2,334,"['Vietnamese', 'Breakfast & Brunch', 'Sandwiches']",1.0,"564 Castro St, San Francisco, CA 94114",(415) 861-3268
+Tarragon Cafe,4.5,112,['Cafes'],2.0,"200 Fillmore St, San Francisco, CA 94117",(415) 624-3318
+Acquolina,3.9,742,"['Pizza', 'Italian', 'Wine Bars']",2.0,"1600 Stockton St, San Francisco, CA 94133",(415) 781-0331
+Sam's,3.9,770,"['American', 'Burgers', 'Pizza']",2.0,"618 Broadway, San Francisco, CA 94133",(415) 391-1539
+Native Burger,4.5,327,['Burgers'],2.0,"3420 Geary Blvd, San Francisco, CA 94118",(415) 682-4197
+Terzo,4.2,698,"['Mediterranean', 'Tapas/Small Plates']",3.0,"3011 Steiner St, San Francisco, CA 94123",(415) 441-3200
+Shoshin Sushi,4.8,74,"['Japanese', 'Sushi Bars']",2.0,"2450 Clement St, San Francisco, CA 94121",(415) 386-8008
+Osteria Bella,4.3,155,"['Italian', 'Cocktail Bars', 'Gelato']",2.0,"3848 Geary Blvd, San Francisco, CA 94118",(415) 221-0305
+Pagan Restaurant,4.0,606,"['Thai', 'Burmese']",2.0,"3199 Clement St, San Francisco, CA 94121",(415) 751-2598
+Next Level Burger,4.2,314,"['Burgers', 'American', 'Vegan']",2.0,"450 Rhode Island St, Whole Foods Market 365, San Francisco, CA 94107",(415) 358-1100
+Foreign Cinema,4.0,5574,"['Breakfast & Brunch', 'Mediterranean', 'Cocktail Bars']",3.0,"2534 Mission St, San Francisco, CA 94110",(415) 648-7600
+4505 Burgers & BBQ - San Francisco,3.4,1952,"['Barbeque', 'Burgers', 'Sandwiches']",2.0,"705 Divisadero St, San Francisco, CA 94117",(415) 231-6993
+Champa Garden,3.9,1032,"['Laotian', 'Asian Fusion', 'Thai']",2.0,"613 Faxon Ave, San Francisco, CA 94112",(415) 349-4186
+Luisa's Restaurant,4.7,90,"['Italian', 'Wine Bars', 'Pizza']",2.0,"1001 Guerrero St, San Francisco, CA 94110",(415) 800-7544
+The Sycamore,3.9,814,"['Gastropubs', 'Bars']",2.0,"2140 Mission St, San Francisco, CA 94110",(415) 252-7704
+Pacific Catch,4.1,1757,"['Seafood', 'Sushi Bars', 'Tacos']",2.0,"2027 Chestnut St, San Francisco, CA 94123",(415) 440-1950
+Yummy Yummy,4.1,1591,"['Vietnamese', 'Chinese', 'Noodles']",2.0,"1015 Irving St, San Francisco, CA 94122",(415) 566-4722
+Portofino,4.6,311,"['Seafood', 'Salad', 'Sandwiches']",2.0,"1318 Grant Ave, San Francisco, CA 94133",(415) 400-5776
+Katsuya,4.2,254,['Japanese'],2.0,"380 Bush St, San Francisco, CA 94104",(415) 757-0404
+District San Francisco,3.8,1224,"['Wine Bars', 'Tapas/Small Plates', 'Whiskey Bars']",2.0,"216 Townsend St, San Francisco, CA 94107",(415) 896-2120
+Pistachio Kitchen,4.8,33,"['Breakfast & Brunch', 'Salad', 'Soup']",2.0,"1535 Franklin St, San Francisco, CA 94109",(415) 657-6007
+SoHoMei,4.2,36,['Chinese'],2.0,"1240 Noriega St, San Francisco, CA 94122",(415) 564-8818
+G&Y Bakery Restaurant,4.3,183,"['Coffee & Tea', 'Chinese']",2.0,"881 Clay St, San Francisco, CA 94108",(415) 291-8688
+Sushirrito,3.9,1657,"['Japanese', 'Sushi Bars', 'Asian Fusion']",2.0,"226 Kearny St, San Francisco, CA 94108",(415) 544-9868
+Paula's Cafe,4.7,93,"['Breakfast & Brunch', 'Cafes', 'Latin American']",2.0,"488 Haight St, San Francisco, CA 94117",(415) 865-0522
+Trattoria Contadina,4.2,1491,['Italian'],2.0,"1800 Mason St, San Francisco, CA 94133",(415) 982-5728
+Kuker,4.8,22,"['Bulgarian', 'Food Trucks']",2.0,"900 Avenue D, San Francisco, CA 94130",(415) 341-4143
+Pacific Cafe,4.1,836,['Seafood'],3.0,"7000 Geary Blvd, San Francisco, CA 94121",(415) 387-7091
+Chong Qing Xiao Mian,4.1,1264,"['Noodles', 'Szechuan']",2.0,"915 Kearny St, San Francisco, CA 94133",(415) 983-0888
+Lou's Cafe,4.4,1886,"['Coffee & Tea', 'Sandwiches', 'Salad']",2.0,"5017 Geary Blvd, San Francisco, CA 94118",(415) 379-4429
+Underdogs Cantina,4.0,129,"['Mexican', 'Breakfast & Brunch', 'Sports Bars']",2.0,"128 King St, San Francisco, CA 94107",(415) 416-6873
+Noriega Cafe,3.9,119,"['Chinese', 'Seafood', 'Noodles']",2.0,"1245 Noriega St, San Francisco, CA 94122",(415) 702-6218
+Members Only,4.1,151,"['Cocktail Bars', 'Lounges', 'New American']",2.0,"1000 Larkin St, San Francisco, CA 94109",(415) 320-8399
+Il Casaro Pizzeria & Mozzarella Bar -  Castro,4.1,254,"['Italian', 'Pizza', 'Cocktail Bars']",2.0,"235 Church St, San Francisco, CA 94114",(415) 875-9421
+B Star,4.1,2120,"['Burmese', 'Asian Fusion', 'Breakfast & Brunch']",2.0,"127 Clement St, San Francisco, CA 94118",(415) 933-9900
+Go Go 7,4.5,472,['Korean'],2.0,"1300 Ocean Ave, San Francisco, CA 94112",(415) 333-4344
+Kora Restaurant,4.8,4,"['New Mexican Cuisine', 'Seafood']",2.0,"2801 Folsom St, San Francisco, CA 94110",(415) 400-4726
+Volcano,4.1,1397,['Japanese Curry'],2.0,"5454 Geary Blvd, San Francisco, CA 94121",(415) 752-7671
+Saap Ver Authentic Thai Cuisine,4.0,773,"['Thai', 'Noodles', 'Laotian']",2.0,"88 Division St, San Francisco, CA 94103",(415) 255-8188
+Cassava,4.0,1104,"['New American', 'French', 'Venues & Event Spaces']",3.0,"401 Columbus Ave, San Francisco, CA 94133",(415) 640-8990
+Kung Food,4.2,677,"['Chinese', 'Gluten-Free', 'Vegetarian']",2.0,"1615 McAllister St, San Francisco, CA 94115",(415) 673-6688
+Jasmin's,4.9,74,"['Breakfast & Brunch', 'Burgers', 'Fast Food']",2.0,"809 Bush St, San Francisco, CA 94108",(415) 484-8911
+Hoi An 1608 Vietnamese Restaurant,4.3,184,['Vietnamese'],2.0,"1608 Polk St, San Francisco, CA 94109",(415) 888-8870
+Old Jerusalem Restaurant,4.2,1232,"['Mediterranean', 'Halal', 'Kebab']",2.0,"2966 Mission St, San Francisco, CA 94110",(415) 642-5958
+DragonEats,4.4,533,"['Vietnamese', 'Sandwiches']",1.0,"520 Gough St, San Francisco, CA 94102",(415) 795-1469
+Rocketbird,4.2,57,['American'],2.0,"1030 Illinois St, San Francisco, CA 94107",(415) 965-4947
+Luke's Lobster SoMa,3.8,561,"['Seafood', 'Soup', 'Sandwiches']",2.0,"92 2nd St, San Francisco, CA 94105",(415) 658-7443
+Smokin D’s BBQ,4.6,20,"['Barbeque', 'Pop-Up Restaurants', 'Breakfast & Brunch']",2.0,"501 Buckingham Way, San Francisco, CA 94132",(415) 349-3491
+Rose Indian Cuisine,4.7,573,"['Indian', 'Himalayan/Nepalese']",2.0,"1386 9th Ave, San Francisco, CA 94122",(415) 213-5654
+Aliment,4.0,882,"['New American', 'Breakfast & Brunch', 'Cocktail Bars']",2.0,"786 Bush St, San Francisco, CA 94108",(415) 829-2737
+My Father's Kitchen,3.5,539,['Vietnamese'],2.0,"1655 Divisadero St, San Francisco, CA 94115",(415) 829-2610
+Matador,3.9,958,"['Mexican', 'Cocktail Bars']",2.0,"679 Sutter St, San Francisco, CA 94102",(415) 525-3557
+Las Katrina’s,5.0,2,"['Mexican', 'Salad', 'Soup']",2.0,"2101 Lombard St, San Francisco, CA 94123",(415) 757-0925
+Sister Mother Crone,5.0,2,['Pop-Up Restaurants'],2.0,"900 Marin St, San Francisco, CA 94124",(415) 301-4355
+Hai Ky Noodles,4.3,1214,"['Chinese', 'Vietnamese', 'Noodles']",2.0,"707 Ellis St, San Francisco, CA 94109",(415) 771-2577
+Plain Jane,4.4,626,['Breakfast & Brunch'],2.0,"1000 Guerrero St, San Francisco, CA 94110",(415) 654-5270
+Blue Barn-Polk,3.8,632,"['Salad', 'Delis', 'Sandwiches']",2.0,"2237 Polk St, San Francisco, CA 94109",(415) 655-9438
+California Shellfish Company,5.0,2,"['Seafood', 'Seafood Markets']",2.0,"420 Jefferson St, San Francisco, CA 94109",(415) 775-9241
+Super Pan,4.0,425,"['Teppanyaki', 'Ramen', 'Hot Pot']",2.0,"5344 Geary Blvd, San Francisco, CA 94121",(415) 668-5344
+Slice House by Tony Gemignani,4.2,409,"['Salad', 'Pizza', 'Italian']",2.0,"1535 Haight St, San Francisco, CA 94117",(415) 552-2520
+Garaje,4.3,1759,"['Mexican', 'Burgers', 'Beer Bar']",2.0,"475 3rd St, San Francisco, CA 94107",(415) 644-0838
+Sons & Daughters,4.2,791,['New American'],4.0,"708 Bush St, San Francisco, CA 94108",(415) 994-7933
+The Pink Elephant,3.8,1868,"['Breakfast & Brunch', 'Cocktail Bars', 'Champagne Bars']",3.0,"142 Minna St, San Francisco, CA 94105",(415) 872-9379
+The Soup,3.8,103,['Soup'],2.0,"2315 Irving St, San Francisco, CA 94122",(415) 463-6099
+AyDea,5.0,14,"['Coffee & Tea', 'Russian', 'Bakeries']",2.0,"799 Bryant St, San Francisco, CA 94107",(415) 875-9029
+Mandalay,4.1,2471,"['Burmese', 'Asian Fusion']",2.0,"4348 California St, San Francisco, CA 94118",(415) 386-3896
+1428 Haight Patio Cafe & Crepery,4.2,500,"['American', 'Creperies', 'Breakfast & Brunch']",2.0,"1428 Haight St, San Francisco, CA 94117",(415) 864-8484
+Beach Chalet Brewery and Restaurant,3.1,3463,"['Breweries', 'American', 'Breakfast & Brunch']",2.0,"1000 Great Hwy, San Francisco, CA 94121",(415) 386-8439
+QingShu,3.8,141,"['Noodles', 'Chinese', 'Soup']",2.0,"816 Irving St, San Francisco, CA 94122",(415) 702-6255
+Magic Flute Ristorante,3.9,652,"['Italian', 'Breakfast & Brunch', 'Seafood']",2.0,"3673 Sacramento St, San Francisco, CA 94118",(415) 922-1225
+Café de Olla,4.8,82,"['Coffee & Tea', 'Mexican']",2.0,"3388 19th St, San Francisco, CA 94110",(415) 678-5150
+Flour + Water,3.8,2658,"['Italian', 'Pizza']",3.0,"2401 Harrison St, San Francisco, CA 94110",(415) 826-7000
+ONE65 Bistro,4.5,133,"['New American', 'French', 'Bars']",3.0,"165 O'Farrell St, Fl 3, San Francisco, CA 94102",(415) 814-8888
+Rocco's Café,4.0,1145,"['Italian', 'American', 'Breakfast & Brunch']",2.0,"1131 Folsom St, San Francisco, CA 94103",(415) 554-0522
+Le Soleil,4.1,595,['Vietnamese'],2.0,"133 Clement St, San Francisco, CA 94118",(415) 668-4848
+La Playa Seafood SF,4.8,16,"['Seafood', 'Breakfast & Brunch']",2.0,"2331 Mission St, San Francisco, CA 94110",(415) 796-3089
+Foghorn Taproom,4.1,82,"['Chicken Wings', 'Sports Bars', 'Chicken Shop']",2.0,"534 Irving St, San Francisco, CA 94122",(415) 592-2341
+Parton The Interruption,5.0,2,"['Burgers', 'Food Delivery Services', 'Fast Food']",2.0,"475 6th St, k8, San Francisco, CA 94103",(510) 387-9019
+Saffron Grill,4.0,563,"['Indian', 'Beer, Wine & Spirits', 'Vegetarian']",2.0,"1279 Fulton St, San Francisco, CA 94117",(415) 567-5100
+Kuma Sushi + Sake,4.5,512,"['Sushi Bars', 'Japanese']",3.0,"1040 Polk St, San Francisco, CA 94109",(415) 962-7400
+Kingbob,4.7,174,['Korean'],1.0,"645 Clay St, San Francisco, CA 94111",(415) 658-7191
+Iggy's Place,4.8,46,"['Sandwiches', 'Salad', 'Breakfast & Brunch']",2.0,"3519 Balboa St, San Francisco, CA 94121",(415) 425-7795
+El Fuego,4.7,202,"['Mexican', 'Food Trucks', 'Sandwiches']",2.0,"768 Sansome St, San Francisco, CA 94111",(415) 465-9395
+RT Rotisserie,4.2,683,"['Salad', 'Soup', 'Sandwiches']",2.0,"101 Oak St, San Francisco, CA 94102",(415) 355-9085
+Alamo Square Seafood Grill,3.9,734,['Seafood'],2.0,"803 Fillmore St, San Francisco, CA 94117",(415) 440-2828
+Perilla,3.8,222,['Vietnamese'],2.0,"525 Haight St, San Francisco, CA 94117",(415) 872-6718
+Mi Lindo Perú,4.1,792,['Peruvian'],2.0,"3226 Mission St, San Francisco, CA 94110",(415) 642-4897
+Aceking BBQ,4.2,152,"['Chinese', 'Barbeque', 'Noodles']",1.0,"1820 Clement St, San Francisco, CA 94121",(415) 864-9374
+Mr Pollo,4.4,683,['New American'],3.0,"2823 Mission St, San Francisco, CA 94110",(860) 912-9168
+Bearing West,4.7,88,"['Venues & Event Spaces', 'Seafood', 'Cocktail Bars']",2.0,"2325 Taraval St, San Francisco, CA 94116",(415) 742-4515
+Pica Pica Arepa Kitchen,3.9,1678,"['Gluten-Free', 'Latin American']",2.0,"401 Valencia St, San Francisco, CA 94103",(415) 400-5453
+Louie's Original,3.6,56,"['Burgers', 'Wine Bars', 'Sandwiches']",2.0,"1685 Mariposa St, San Francisco, CA 94107",(628) 221-0221
+The New Spot On Polk,4.4,915,"['Breakfast & Brunch', 'Diners', 'Bars']",2.0,"2401 Polk St, San Francisco, CA 94109",(415) 913-7775
+Che Fico,3.7,787,"['Italian', 'New American']",4.0,"838 Divisadero St, San Francisco, CA 94117",(415) 416-6959
+Hungry Cafe,4.5,14,"['Cafes', 'Breakfast & Brunch', 'Desserts']",2.0,"1550 Evans Ave, San Francisco, CA 94124",(415) 448-7430
+Top SF BBQ,3.5,153,"['Barbeque', 'Chinese']",2.0,"2311 Clement St, San Francisco, CA 94121",(415) 571-8201
+Cafe Europa,4.4,587,"['German', 'Polish', 'Modern European']",2.0,"4318 California St, San Francisco, CA 94118",(415) 386-1000
+Oasis Grill,4.1,1345,"['Middle Eastern', 'Mediterranean', 'Halal']",2.0,"91 Drumm St, San Francisco, CA 94111",(415) 781-0313
+Original Joe's Westlake,3.9,2100,"['American', 'Italian', 'Cocktail Bars']",2.0,"11 Glenwood Ave, Daly City, CA 94015",(650) 755-7400
+Rin's Thai Restaurant,3.8,408,"['Thai', 'Asian Fusion', 'Laotian']",2.0,"4301 24th St, San Francisco, CA 94114",(415) 821-4776
+Dinosaurs Vietnamese Sandwiches,4.1,184,"['Vietnamese', 'Sandwiches']",2.0,"18 Boardman Pl, San Francisco, CA 94103",(415) 701-1421
+Franco's Latin Table,4.4,269,"['Latin American', 'Peruvian', 'Seafood']",3.0,"24 W Portal Ave, San Francisco, CA 94127",(415) 759-8087
+Minnie Bells,4.1,22,"['Soul Food', 'Food Trucks', 'Comfort Food']",2.0,"San Francisco, CA 94103",(415) 273-9340
+The Ramp Restaurant,3.4,1309,"['American', 'Seafood', 'Sports Bars']",2.0,"855 Terry A Francois Blvd, San Francisco, CA 94158",(415) 621-2378
+Turner's Kitchen,4.5,420,"['Sandwiches', 'Soup', 'Salad']",2.0,"3505 17th St, Former Clare's Deli, San Francisco, CA 94110",(415) 621-3505
+Richmond Republic Draught House,4.0,455,"['Burgers', 'Beer Bar', 'Sports Bars']",2.0,"642 Clement St, San Francisco, CA 94118",(415) 702-6069
+Ebisu,4.1,2046,"['Sushi Bars', 'Japanese']",2.0,"1283 9th Ave, San Francisco, CA 94122",(415) 566-1770
+Absinthe Brasserie & Bar,3.9,3467,"['French', 'Beer Bar', 'Cocktail Bars']",3.0,"398 Hayes St, San Francisco, CA 94102",(415) 551-1590
+Radio Africa Kitchen,4.4,364,"['New American', 'Moroccan', 'Ethiopian']",2.0,"4800 3rd St, San Francisco, CA 94124",(415) 420-2486
+Napizza,4.5,175,"['Pizza', 'Pasta Shops', 'Salad']",2.0,"3258 Scott St, San Francisco, CA 94123",(415) 525-4006
+Montesacro SOMA,4.4,988,"['Italian', 'Pizza', 'Wine Bars']",2.0,"510 Stevenson St, San Francisco, CA 94103",(415) 795-3040
+Tadich Grill,4.0,2834,"['Seafood', 'Venues & Event Spaces', 'Wine Bars']",3.0,"240 California St, San Francisco, CA 94111",(415) 391-1849
+Gyros And Tzatziki,4.3,133,"['Mediterranean', 'Greek', 'Salad']",2.0,"3111 24th St, San Francisco, CA 94110",(415) 400-4962
+Akira Japanese Restaurant,4.2,509,"['Japanese', 'Sushi Bars']",2.0,"1634 Bush St, San Francisco, CA 94109",(415) 800-8498
+Eat Sushi,4.5,278,"['Sushi Bars', 'Ramen']",2.0,"1516 Folsom St, San Francisco, CA 94103",(415) 355-1288
+Tato,4.6,127,['Mexican'],2.0,"4608 3rd St, San Francisco, CA 94124",(415) 948-0974
+Mediterranean Aroma,4.8,138,"['Halal', 'Mediterranean', 'Middle Eastern']",2.0,"900 16th St, San Francisco, CA 94107",(415) 829-3119
+Sanguchon Eatery,4.4,144,"['Peruvian', 'Sandwiches']",2.0,"1182 Valencia St, San Francisco, CA 94110",(415) 766-4317
+New Eritrea Restaurant & Bar,4.3,882,"['Ethiopian', 'Eritrean', 'Seafood']",2.0,"907 Irving St, San Francisco, CA 94122",(415) 681-1288
+Tín Vietnamese Cuisine - Howard St,4.0,1447,"['Vietnamese', 'Noodles', 'Soup']",2.0,"937 Howard St, San Francisco, CA 94103",(415) 882-7188
+Wabi-Sabi Sf At Nob Hill,4.9,30,"['Japanese', 'Sushi Bars']",2.0,"1517 Pine St, San Francisco, CA 94109",(415) 810-9793
+7 Mile House,4.2,1928,"['Sports Bars', 'American', 'Filipino']",2.0,"2800 Bayshore Blvd, Brisbane, CA 94005",(415) 467-2343
+Hawaii West,3.5,99,"['Hawaiian', 'Cocktail Bars']",1.0,"729 Vallejo St, San Francisco, CA 94133",(415) 362-3220
+Devil's Teeth Baking Company,4.3,2298,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",2.0,"3876 Noriega St, San Francisco, CA 94122",(415) 683-5533
+ABV,4.1,696,"['Cocktail Bars', 'New American']",2.0,"3174 16th St, San Francisco, CA 94103",(415) 294-1871
+Sushi Uma,3.8,379,"['Sushi Bars', 'Japanese']",2.0,"2026 Irving St, San Francisco, CA 94122",(415) 968-9933
+Bangkok Street Thai Street Food,4.2,760,"['Thai', 'Salad', 'Noodles']",2.0,"1826 Buchanan St, San Francisco, CA 94115",(415) 292-9027
+Leleka,4.7,315,"['Ukrainian', 'Soup', 'Bakeries']",2.0,"40 Belden Pl, San Francisco, CA 94104",(415) 901-3434
+Wayfare Tavern,3.9,4506,['American'],3.0,"558 Sacramento St, San Francisco, CA 94111",(415) 772-9060
+I'a Poke,4.0,310,"['Poke', 'Sushi Bars']",2.0,"314 Church St, San Francisco, CA 94107",(415) 829-8030
+Rad Radish,4.2,252,"['Vegan', 'Vegetarian', 'Breakfast & Brunch']",2.0,"301 Hayes St, San Francisco, CA 94102",(415) 916-8548
+Hawker Alley - San Francisco,4.1,12,"['Thai', 'Taiwanese', 'Asian Fusion']",2.0,"2723 Oakdale Ave, San Francisco, CA 94124",(415) 796-3909
+Cafe Alma,4.8,60,"['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']",2.0,"888 Innes Ave, San Francisco, CA 94124",(415) 336-3286
+Tín on Kearny,4.7,66,"['Vietnamese', 'Sandwiches', 'Noodles']",2.0,"356 Kearny St, San Francisco, CA 94108",(415) 757-0378
+Common Sage,3.9,268,"['Beer, Wine & Spirits', 'Ramen', 'Cafes']",2.0,"1552 Polk St, San Francisco, CA 94109",(415) 580-7178
+Bernal Star,3.8,376,"['Burgers', 'Breakfast & Brunch', 'New American']",2.0,"410 Cortland Ave, San Francisco, CA 94110",(415) 695-8777
+Fino Ristorante,4.3,1393,"['Italian', 'Desserts', 'Pizza']",3.0,"624 Post St, San Francisco, CA 94109",(415) 928-2080
+Primavera,4.4,245,['Mexican'],2.0,"1 Ferry Plz, Ferry Plaza Farmers Market, San Francisco, CA 94111",(707) 939-9350
+Laguna Cafe,4.3,468,"['Hookah Bars', 'Middle Eastern']",2.0,"1821 Haight St, San Francisco, CA 94117",(415) 930-2446
+Tacos Y Hot Dogs Tio Pancho,5.0,1,"['Tacos', 'Hot Dogs']",2.0,"1840 Mission St, Ste 8, San Francisco, CA 94103",(415) 360-4345
+As Quoted,3.7,269,"['New American', 'Gluten-Free', 'Coffee & Tea']",2.0,"3613 Sacramento St, San Francisco, CA 94118",(415) 914-0689
+Mathilde French Bistro,4.3,372,"['French', 'Desserts', 'Salad']",3.0,"315 5th St, San Francisco, CA 94107",(415) 546-6128
+Broad Street Oyster Co.,3.9,69,['Seafood'],2.0,"900 N Point St, Ghirardelli Square, San Francisco, CA 94109",(415) 796-3898
+Per Diem - Financial District,3.9,852,"['New American', 'Cocktail Bars', 'Gastropubs']",2.0,"43 Sutter St, San Francisco, CA 94104",(415) 888-8811
+Tacos El Patrón,4.2,878,['Tacos'],2.0,"1500 S Van Ness Ave, Ste 100, San Francisco, CA 94110",(415) 829-7315
+Nar Doner N Grill,4.6,66,"['Turkish', 'Tapas/Small Plates', 'Sandwiches']",2.0,"3251 20th Ave, Ste 250J, San Francisco, CA 94132",(415) 806-1415
+The Monk's Kettle,3.9,2325,"['Bars', 'Gastropubs']",2.0,"3141 16th St, San Francisco, CA 94103",(415) 865-9523
+Giuliana’s Just for You Cafe,4.5,45,"['Cafes', 'Breakfast & Brunch', 'New American']",2.0,"732 22nd St, San Francisco, CA 94107",(415) 647-7558
+Baan Yaai,4.4,110,"['Thai', 'Noodles', 'Chicken Wings']",2.0,"2274 Lombard St, San Francisco, CA 94123",(415) 264-9082
+Kogi Gogi BBQ,3.8,844,"['Barbeque', 'Korean', 'Beer Bar']",3.0,"1358 9th Ave, San Francisco, CA 94122",(415) 702-6792
+The Hungry Spot,5.0,3,"['Comfort Food', 'Salad', 'Sandwiches']",2.0,"2077 Hayes St, San Francisco, CA 94117",(415) 682-4111
+Roli Roti Gourmet Rotisserie,4.2,1603,"['Sandwiches', 'Food Trucks', 'Specialty Food']",2.0,"1 Ferry Bldg, San Francisco, CA 94105",(510) 780-0300
+SF Kebab,4.0,472,"['Mediterranean', 'Middle Eastern', 'Kebab']",2.0,"550 16th St, San Francisco, CA 94158",(415) 255-2262
+Snow Bliss Cafe,4.4,42,"['Asian Fusion', 'Chinese', 'Shaved Ice']",2.0,"250 W Portal Ave, San Francisco, CA 94127",(415) 503-9450
+Barney's Gourmet Hamburgers,3.3,897,"['Burgers', 'Salad', 'American']",2.0,"4138 24th St, San Francisco, CA 94114",(415) 282-7770
+The Stinking Rose,3.7,332,"['Italian', 'American']",2.0,"430 Columbus Ave, San Francisco, CA 94133",(415) 781-7673
+Osmanthus Dim Sum Lounge,4.4,811,"['Cocktail Bars', 'Dim Sum']",2.0,"504 Broadway, San Francisco, CA 94133",(415) 872-9648
+Crepevine Restaurants,3.9,1807,"['Creperies', 'Breakfast & Brunch', 'New American']",2.0,"624 Irving St, San Francisco, CA 94122",(415) 681-5858
+Amarena,4.0,689,['Italian'],2.0,"2162 Larkin St, San Francisco, CA 94109",(415) 447-0441
+Stonemill Matcha,4.2,1383,"['Cafes', 'Coffee & Tea', 'Japanese']",2.0,"561 Valencia St, San Francisco, CA 94110",(415) 796-3876
+Cellarmaker House of Pizza,4.2,300,"['Pizza', 'Breweries']",2.0,"3193 Mission St, San Francisco, CA 94110",(415) 296-6351
+After Hours Ramen,4.6,33,"['Bubble Tea', 'Ramen']",1.0,"3044 Taraval St, San Francisco, CA 94116",(415) 439-9893
+Seven Square Taproom,3.9,19,['New American'],2.0,"299 2nd St, San Francisco, CA 94105",(415) 947-0700
+Izakaya Yoki,4.3,522,"['Japanese', 'Korean']",2.0,"900 Bush St, Ste C101, San Francisco, CA 94109",(415) 923-1141
+Pakwan Restaurant - 16th Street,3.9,1983,"['Indian', 'Pakistani', 'Halal']",2.0,"3180-82 16th St, San Francisco, CA 94103",(415) 255-2440
+The Bird,4.0,271,"['Chicken Shop', 'Sandwiches']",2.0,"406 Hayes St, San Francisco, CA 94102",(415) 940-2770
+Cuisine of Nepal,4.7,738,"['Himalayan/Nepalese', 'Indian', 'Caterers']",2.0,"3486 Mission St, San Francisco, CA 94110",(415) 647-2222
+Delarosa Marina,4.0,1914,"['Italian', 'Cocktail Bars', 'Pizza']",2.0,"2175 Chestnut St, San Francisco, CA 94123",(415) 673-7100
+ChouChou French Bistro,3.8,1336,['French'],3.0,"400 Dewey Blvd, San Francisco, CA 94116",(415) 242-0960
+Sheba Piano Lounge,4.1,679,"['Ethiopian', 'Jazz & Blues', 'Piano Bars']",2.0,"1419 Fillmore St, San Francisco, CA 94115",(415) 440-7414
+Bar VIA,3.9,56,"['Bars', 'New American', 'Tapas/Small Plates']",2.0,"138 King St, San Francisco, CA 94107",(415) 200-4998
+Zuni Café,3.7,3039,"['Italian', 'French']",3.0,"1658 Market St, San Francisco, CA 94102",(415) 552-2522
+The Post Room,3.8,19,"['Cocktail Bars', 'Mediterranean', 'Seafood']",2.0,"450 Powell St, San Francisco, CA 94102",(415) 395-8516
+Proposition Chicken,3.8,132,"['Chicken Wings', 'Sandwiches']",2.0,"3465 California St, San Francisco, CA 94118",(415) 422-0646
+Little Skillet,3.7,2163,"['Breakfast & Brunch', 'Sandwiches', 'Waffles']",2.0,"360 Ritch St, San Francisco, CA 94107",(415) 777-2777
+Noren Izakaya,4.1,280,"['Izakaya', 'Tapas/Small Plates', 'Cocktail Bars']",3.0,"1701 Powell St, San Francisco, CA 94133",(415) 291-9268
+An Chi,4.5,205,['Vietnamese'],2.0,"5827 Geary Blvd, San Francisco, CA 94121",(415) 702-9986
+Zenpo Sushi,4.3,62,"['Sushi Bars', 'Japanese', 'Tapas/Small Plates']",2.0,"340 Grove St, San Francisco, CA 94102",(415) 970-5315
+Outta Sight Pizza,4.7,236,['Pizza'],1.0,"422 Larkin St, San Francisco, CA 94102",(415) 829-3108
