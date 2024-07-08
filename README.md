@@ -10,23 +10,29 @@ The objective of this project is to create a comprehensive recommendation system
 4. **App Deployment**: Deploying the recommendation system using Streamlit for an interactive user experience.
 
 ## Project Structure
-- **task1**: Contains the API code used to extract data from Yelp.
-- **task2**: Includes the EDA and two recommendation systems:
-  - **Location-Based Recommendation**: Recommends restaurants based on their location.
-  - **Hybrid Recommendation**: Uses content-based filtering combined with numeric feature similarity to recommend restaurants.
-- **task3**: Contains the code for deploying the application using Streamlit.
+'''
+yelp-restaurant-recommendation/
+│
+├── task1/
+│   ├── extract_yelp_data.py         # API code to extract Yelp data
+│   ├── README.md                    # Documentation for data extraction
+│
+├── task2/
+│   ├── eda_and_recommendation.py    # EDA and recommendation system script
+│   ├── README.md                    # Documentation for EDA and recommendation systems
+│
+├── task3/
+│   ├── app.py                       # Streamlit app deployment code
+│   ├── README.md                    # Documentation for app deployment
+│
+├── data/
+│   ├── raw/                         # Raw data extracted from Yelp
+│   ├── processed/                   # Processed data for analysis and modeling
+│
+├── requirements.txt                 # Project dependencies
+├── LICENSE                          # License for the project
+├── README.md                        # Main project README
+└── .gitignore                       # Git ignore file
 
-## Installation
-To run this project, follow these steps:
+''''
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yelp-restaurant-recommendation.git
-   cd yelp-restaurant-recommendation
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-pip install -r requirements.txt
-
-streamlit run app.py
