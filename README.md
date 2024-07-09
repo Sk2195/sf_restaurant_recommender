@@ -1,7 +1,7 @@
-# Yelp Data Restaurant Recommendation System
+# San Francisco Restaurant Recommender System
 
 ## Objective
-The objective of this project is to create a comprehensive recommendation system for restaurants using Yelp data. The system includes:
+The objective of this project is to create a comprehensive recommendation system specifically for restaurants in San Francisco using Yelp data. The system includes:
 1. **Data Extraction**: Extracting restaurant data from Yelp.
 2. **Exploratory Data Analysis (EDA)**: Analyzing the data to understand key insights.
 3. **Recommendation Systems**: 
@@ -10,10 +10,19 @@ The objective of this project is to create a comprehensive recommendation system
 4. **App Deployment**: Deploying the recommendation system using Streamlit for an interactive user experience.
 
 ## Project Structure
+- **task1**: Contains the API code used to extract data from Yelp.
+- **task2**: Includes the EDA and two recommendation systems:
+  - **Location-Based Recommendation**: Recommends restaurants based on their location.
+  - **Hybrid Recommendation**: Uses content-based filtering combined with numeric feature similarity to recommend restaurants.
+- **task3**: Contains the code for deploying the application using Streamlit.
 
+## Installation
+To run this project, follow these steps:
 
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/san-francisco-recommender-system.git
+   cd san-francisco-recommender-system
 
 ## Folder Structure
 
