@@ -10,7 +10,17 @@ The objective of this project is to create a comprehensive recommendation system
 4. **App Deployment**: Deploying the recommendation system using Streamlit for an interactive user experience.
 
 ## Project Structure
-'''
+
+
+
+
+
+## Folder Structure
+
+The project is structured as follows:
+
+```plaintext
+
 yelp-restaurant-recommendation/
 │
 ├── task1/
@@ -33,6 +43,3 @@ yelp-restaurant-recommendation/
 ├── LICENSE                          # License for the project
 ├── README.md                        # Main project README
 └── .gitignore                       # Git ignore file
-
-''''
-
